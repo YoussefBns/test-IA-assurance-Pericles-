@@ -1,0 +1,18 @@
+{
+  "health": {
+    "status": "ok",
+    "model_version": "1.0.0-cf63ac276d"
+  },
+  "prediction": {
+    "client_id": "DEMO-001",
+    "churn_probability": 0.4663275906686875,
+    "prediction": 0,
+    "risk_level": "modéré"
+  },
+  "invalid_input_http_status": 422,
+  "openapi": "validated",
+  "transport": "real HTTP",
+  "structured_log": "validated",
+  "status": "passed",
+  "server_log": "INFO:     Started server process [1687]\nINFO:     Waiting for application startup.\nINFO:     Application startup complete.\nINFO:     Uvicorn running on http://127.0.0.1:56349 (Press CTRL+C to quit)\nINFO:     127.0.0.1:39282 - \"GET /health HTTP/1.1\" 200 OK\nINFO:     127.0.0.1:39290 - \"GET /health HTTP/1.1\" 200 OK\nINFO:     127.0.0.1:39298 - \"POST /predict HTTP/1.1\" 200 OK\nINFO:     127.0.0.1:39312 - \"POST /predict HTTP/1.1\" 422 Unprocessable Content\nINFO:     127.0.0.1:39316 - \"GET /openapi.json HTTP/1.1\" 200 OK\nINFO:     Shutting down\nINFO:     Waiting for application shutdown.\nINFO:     Application shutdown complete.\nINFO:     Finished server process [1687]\n"
+}

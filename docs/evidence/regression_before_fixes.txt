@@ -1,0 +1,57 @@
+FF                                                                       [100%]
+=================================== FAILURES ===================================
+_________________ test_length_truncated_generation_is_rejected _________________
+
+    def test_length_truncated_generation_is_rejected():
+        import io
+        payload = {'done': True, 'done_reason': 'length', 'model': 'fixture-only',
+                   'message': {'content': 'Phrase interrompue avant ses conditions'}}
+        with patch('partie2_rag.generation.urlopen', return_value=io.BytesIO(json.dumps(payload).encode())):
+>           with pytest.raises(RuntimeError, match='tronqu'):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E           Failed: DID NOT RAISE <class 'RuntimeError'>
+
+tests/test_generation_transport.py:57: Failed
+_____________ test_ingestion_cli_rejects_incomplete_subject_corpus _____________
+
+tmp_path = PosixPath('/tmp/pytest-of-root/pytest-6/test_ingestion_cli_rejects_inc0')
+
+    def test_ingestion_cli_rejects_incomplete_subject_corpus(tmp_path):
+        from partie2_rag.pipeline import main
+        from shutil import copy2
+        copy2(ROOT/'data/fiches_produits/fiche_auto_premium.pdf',tmp_path/'fiche_auto_premium.pdf')
+>       assert main(['ingest','--pdf-dir',str(tmp_path),'--index',str(tmp_path/'index')]) == 2
+E       AssertionError: assert 0 == 2
+E        +  where 0 = <function main at 0x7f9095bf9f80>(['ingest', '--pdf-dir', '/tmp/pytest-of-root/pytest-6/test_ingestion_cli_rejects_inc0', '--index', '/tmp/pytest-of-root/pytest-6/test_ingestion_cli_rejects_inc0/index'])
+
+tests/test_pipeline.py:42: AssertionError
+----------------------------- Captured stdout call -----------------------------
+{
+  "format_version": 1,
+  "embedding": "TF-IDF(word 1-2 grams) + TruncatedSVD + L2 normalization",
+  "neural_pretrained": false,
+  "vector_store": "NumPy exact inner product of normalized vectors",
+  "dimension": 4,
+  "n_chunks": 5,
+  "n_documents": 1,
+  "sklearn_version": "1.8.0",
+  "seed": 42,
+  "chunking": {
+    "unit": "whitespace words",
+    "maximum": 240,
+    "overlap": 40
+  },
+  "fingerprints": {
+    "encoder.joblib": "0ea251b4bc7b5c5bafb04c031c0f955908bfd3c08f2245a86a43bd75efe2bedb",
+    "vectors.npy": "b66ee03839e1df094aa2da020622cb10555397c6302e479432f7b6153da63ac7",
+    "chunks.json": "de107e1b887ba47aa71193dee893613caff5085a6990928cb42f0f32f6c6868f"
+  },
+  "source_fingerprints": {
+    "fiche_auto_premium.pdf": "0c464621917ff72bad9aff396bb3ec91a2a43dda7399880faab7124ec9f52e3b"
+  }
+}
+=========================== short test summary info ============================
+FAILED tests/test_generation_transport.py::test_length_truncated_generation_is_rejected - Failed: DID NOT RAISE <class 'RuntimeError'>
+FAILED tests/test_pipeline.py::test_ingestion_cli_rejects_incomplete_subject_corpus - AssertionError: assert 0 == 2
+ +  where 0 = <function main at 0x7f9095bf9f80>(['ingest', '--pdf-dir', '/tmp/pytest-of-root/pytest-6/test_ingestion_cli_rejects_inc0', '--index', '/tmp/pytest-of-root/pytest-6/test_ingestion_cli_rejects_inc0/index'])
+2 failed in 0.70s

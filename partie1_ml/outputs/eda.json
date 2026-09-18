@@ -1,0 +1,30 @@
+{
+  "n_train": 1600,
+  "churn_rate_train": 0.24625,
+  "sinistres_iqr_upper_train": 4693.331249999999,
+  "sinistres_above_iqr_train": 120,
+  "sinistres_max_train": 39404.53,
+  "treatment": "Aucune suppression ni winsorisation : log1p du montant dans la pipeline.",
+  "missing_train": {
+    "client_id": 0,
+    "age": 0,
+    "situation_familiale": 0,
+    "profession": 0,
+    "region": 0,
+    "anciennete_mois": 0,
+    "produit_principal": 0,
+    "niveau_couverture": 0,
+    "canal_souscription": 0,
+    "prime_mensuelle_eur": 0,
+    "nb_sinistres_12m": 0,
+    "montant_sinistres_eur": 0,
+    "nb_appels_support_12m": 66,
+    "nb_avenants_contrat": 0,
+    "retard_paiement_nb": 0,
+    "score_satisfaction": 64,
+    "resiliation_anterieure": 0,
+    "date_souscription": 0,
+    "date_derniere_interaction": 0,
+    "churned": 0
+  }
+}

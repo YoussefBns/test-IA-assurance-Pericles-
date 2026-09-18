@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "operation": "POST http://127.0.0.1:11434/api/chat",
+  "error": "Appel Ollama impossible (URLError). Vérifier le serveur et le modèle local.",
+  "cause": "URLError",
+  "live_llm_available": false
+}

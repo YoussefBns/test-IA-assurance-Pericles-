@@ -1,0 +1,99 @@
+{
+  "execution": "chatgpt_interactive_batch",
+  "model": "ChatGPT / GPT-6 Astra Pro (identité déclarée dans cette conversation ; révision serveur non disponible)",
+  "provenance": "Les messages et contextes produits par le code ont été ouverts dans cette conversation ; les réponses ont été composées par ChatGPT puis transcrites dans ce fichier. Import contrôlé par hash de prompt et identifiants de citations. Aucune API Ollama n’a produit ce lot.",
+  "limitations": "Orchestration manuelle, sans latence mesurée ni graine contrôlée. La session a également vu les documents complets et les annotations : ce lot ne constitue PAS une évaluation aveugle, indépendante ou reproductible d’un backend LLM. Les chiffres comparatifs publiés mesurent uniquement le retrieval, pas la fidélité de ce lot. Pour un essai autonome, relancer --generation ollama.",
+  "full_session_had_reference_documents": true,
+  "responses": [
+    {
+      "question_id": "Q1",
+      "mode": "dense",
+      "prompt_sha256": "61c7ac3c468abb20660dafe0e1022c50eba399fc9c81f2286d0dee8aa3f47f69",
+      "answer": "Les passages retrouvés ne permettent pas d'énumérer les garanties de l'Assurance Habitation Confort. Ils contiennent une présentation et un tarif portant la mention « toutes garanties incluses », mais pas le tableau définissant ces garanties. Je ne peux donc pas fournir une liste fiable à partir de ce contexte. Les fiches d'autres formules ou de l'Assurance Auto ne doivent pas servir à compléter la formule demandée. [fiche_habitation_confort:s04:w00] [fiche_habitation_confort:s00:w00]\n\nSources : fiche_habitation_confort.pdf, pages 1 et 2."
+    },
+    {
+      "question_id": "Q1",
+      "mode": "hybrid",
+      "prompt_sha256": "83ab478f02ed75b9fdea0483b97c5d94c2893bb0c599d11b8361bcb3ddac4eb8",
+      "answer": "Réponse partielle : le contexte ne contient pas le tableau des garanties Habitation Confort. Le tarif indique « toutes garanties incluses » sans les énumérer ; cela ne suffit pas pour donner une liste. [fiche_habitation_confort:s04:w00]\n\nLa FAQ précise seulement que l'indemnisation des biens, en Essentiel et Confort, repose sur la valeur réelle après vétusté. Cette modalité d'indemnisation ne remplace pas la liste des garanties. [fiche_habitation_faq:s02:w00]\n\nSources : fiche_habitation_confort.pdf, page 2 ; fiche_habitation_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q1",
+      "mode": "hybrid_filtered",
+      "prompt_sha256": "7cbb5abec4f5198f727ebcd66d1fceabbb4f5ca95ec8c9df0dbb45bbb216d5a6",
+      "answer": "D'après le tableau Habitation Confort fourni, les sept garanties incluses sont l'incendie, l'explosion et la foudre ; les dégâts des eaux ; le vol et le vandalisme ; le bris de glace ; les catastrophes naturelles et technologiques ; la responsabilité civile de la vie privée, animaux domestiques compris ; et l'assistance habitation 24 h/24. [fiche_habitation_confort:s01:w00]\n\nLe tableau fixe notamment un plafond de 150 000 € pour les dégâts des eaux, 15 000 € pour le vol/vandalisme et 3 000 000 € pour la responsabilité civile. L'assistance comprend trois interventions par an, avec 50 € par intervention, pour un serrurier, plombier ou électricien en urgence. [fiche_habitation_confort:s01:w00]\n\nPour le cambriolage, la FAQ demande une preuve d'effraction ou d'agression en Confort : l'intitulé de garantie ne signifie pas que tout vol est couvert. Les options jardin/piscine et valeurs/collections sont présentées séparément dans le tarif, et ne doivent pas être assimilées au socle inclus. [fiche_habitation_faq:s04:w00] [fiche_habitation_confort:s04:w00]\n\nSources : fiche_habitation_confort.pdf, pages 1 et 2 ; fiche_habitation_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q2",
+      "mode": "dense",
+      "prompt_sha256": "78bb030dc579e043604eed48c2381bdcafe098a4ca58c743123e16e9a2b43f67",
+      "answer": "Pour la formule Santé Essentiel, le délai de carence indiqué est de trois mois pour l'optique et le dentaire, sauf affection de longue durée. Le passage ne précise pas le délai applicable à tous les autres postes : je ne peux pas conclure qu'ils sont sans carence. [fiche_sante_essentiel:s03:w00]\n\nLes cinq jours ouvrés cités dans la FAQ correspondent au traitement des remboursements après réception des décomptes, et non à ce délai de carence. Le délai généraliste de la fiche Confort ne doit pas être transposé à Essentiel. [fiche_sante_faq:s02:w00] [fiche_sante_confort:s03:w00]\n\nSources : fiche_sante_essentiel.pdf, pages 1 et 2 ; fiche_sante_faq.pdf, page 1 ; fiche_sante_confort.pdf, pages 1 et 2."
+    },
+    {
+      "question_id": "Q2",
+      "mode": "hybrid",
+      "prompt_sha256": "02d119dd9f8a6f1c655f633f546626894cb7a8f5b767e9be086f66bfd5b80c21",
+      "answer": "La fiche Santé Essentiel prévoit trois mois de carence pour l'optique et le dentaire, avec l'exception « sauf affection longue durée ». Aucun autre délai initial Essentiel n'est établi par les passages retrouvés. [fiche_sante_essentiel:s03:w00]\n\nIl ne faut pas confondre cette attente avec les cinq jours ouvrés de remboursement indiqués dans la FAQ, ni importer le délai généraliste propre à la formule Confort. [fiche_sante_faq:s02:w00] [fiche_sante_confort:s03:w00]\n\nSources : fiche_sante_essentiel.pdf, pages 1 et 2 ; fiche_sante_faq.pdf, page 1 ; fiche_sante_confort.pdf, pages 1 et 2."
+    },
+    {
+      "question_id": "Q2",
+      "mode": "hybrid_filtered",
+      "prompt_sha256": "d4069190e785131419a26b725b076f55cfaf18858863211084f31fe6b83173c0",
+      "answer": "À l'adhésion, la fiche Santé Essentiel indique trois mois de carence pour l'optique et le dentaire, sauf affection de longue durée. Elle ne permet pas de fixer une règle générale pour tous les autres soins. [fiche_sante_essentiel:s03:w00]\n\nUn cas distinct apparaît dans la FAQ : la portabilité après perte d'emploi est décrite comme un maintien de couverture sans délai de carence, jusqu'à douze mois, avec une demande dans les six mois suivant la fin du contrat. Ce cas ne doit pas être confondu avec une nouvelle adhésion. Je restitue ici la fiche de l'exercice, sans valider son interprétation juridique actuelle. [fiche_sante_faq:s04:w00]\n\nLes cinq jours ouvrés de la FAQ concernent le remboursement après réception des décomptes, pas la carence. [fiche_sante_faq:s02:w00]\n\nSources : fiche_sante_essentiel.pdf, pages 1 et 2 ; fiche_sante_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q3",
+      "mode": "dense",
+      "prompt_sha256": "8d4a3f53f29a70cfef2ee109faaf8c8c02158a02602493ffb2b8c41ed3541ac3",
+      "answer": "Oui, les passages Multirisque Pro décrivent une résiliation en cours d'année après la première échéance annuelle, et non un droit général de partir avant cette première échéance. La FAQ indique un mois de préavis en Confort/Premium et deux mois en Essentiel. [fiche_pro_faq:s06:w00]\n\nElle cite la cessation d'activité, la cession du fonds de commerce, une modification substantielle du risque ou un sinistre, dans ce dernier cas dans les trente jours suivant le règlement ; un justificatif est requis. Le texte ne dit pas explicitement que ces motifs dispensent d'attendre la première échéance. [fiche_pro_faq:s06:w00]\n\nLa fiche Essentiel confirme une possibilité infra-annuelle après un an ; Confort indique également après un an avec un mois de préavis. Les passages retrouvés ne comprennent pas les conditions particulières Premium : cette réponse reste limitée au contexte fourni. [fiche_pro_essentiel:s03:w00] [fiche_pro_confort:s03:w00]\n\nSources : fiche_pro_faq.pdf, pages 1 et 2 ; fiche_pro_essentiel.pdf, pages 1 et 2 ; fiche_pro_confort.pdf, pages 1 et 2."
+    },
+    {
+      "question_id": "Q3",
+      "mode": "hybrid",
+      "prompt_sha256": "639eaef6bfae25332825cc8f83cb11ff8208b852d8f0c1c21d2f6fbf958fe5fa",
+      "answer": "Les documents Multirisque Pro retrouvés permettent une résiliation infra-annuelle après la première échéance annuelle. La FAQ donne un préavis d'un mois pour Confort/Premium et de deux mois pour Essentiel. Elle ne démontre pas une faculté générale de résilier avant la première échéance. [fiche_pro_faq:s06:w00]\n\nLes motifs cités sont la cessation d'activité, la cession du fonds de commerce, la modification substantielle du risque ou un sinistre ; pour ce dernier motif, la FAQ mentionne les trente jours suivant le règlement. Un justificatif est demandé. Je ne déduis pas de cette liste une dispense de la condition d'ancienneté. [fiche_pro_faq:s06:w00]\n\nEssentiel et Confort confirment une possibilité après un an, avec un mois de préavis explicitement indiqué en Confort. Aucune condition particulière Premium n'apparaît dans les passages récupérés. [fiche_pro_essentiel:s03:w00] [fiche_pro_confort:s03:w00]\n\nSources : fiche_pro_faq.pdf, fiche_pro_essentiel.pdf et fiche_pro_confort.pdf, pages 1 et 2."
+    },
+    {
+      "question_id": "Q3",
+      "mode": "hybrid_filtered",
+      "prompt_sha256": "0e7341853ea012914e95da382af689ed9db1847a871ae0a03bcf3eb281361926",
+      "answer": "Oui, pour une résiliation en cours d'année après la première échéance annuelle : la FAQ Multirisque Pro annonce un mois de préavis en Confort/Premium et deux mois en Essentiel. Les fiches Essentiel et Confort confirment une résiliation infra-annuelle après un an ; Confort précise un mois de préavis. [fiche_pro_faq:s06:w00] [fiche_pro_essentiel:s03:w00] [fiche_pro_confort:s03:w00]\n\nLa FAQ cite comme motifs la cessation d'activité, la cession du fonds de commerce, la modification substantielle du risque et le sinistre, avec une demande dans les trente jours suivant son règlement pour ce dernier cas. Un justificatif est requis. [fiche_pro_faq:s06:w00]\n\nAvant la toute première échéance annuelle, les passages ne suffisent pas à établir un droit général à résilier, ni à affirmer que les motifs listés dispensent d'attendre un an. Les conditions particulières de la fiche Premium ne figurent pas dans le contexte retrouvé : je ne peux pas en garantir l'exhaustivité.\n\nSources : fiche_pro_faq.pdf, fiche_pro_essentiel.pdf et fiche_pro_confort.pdf, pages 1 et 2."
+    },
+    {
+      "question_id": "Q4",
+      "mode": "dense",
+      "prompt_sha256": "2259aee873f0de19ff1576eb781d549a3fdca0468b588154d3e0ecd13cd3a492",
+      "answer": "En Auto Premium, le tableau fixe la franchise bris de glace à 0 € pour un sinistre par an. La garantie vise tous les vitrages, les optiques et les rétroviseurs extérieurs, dans la limite de la valeur réelle. [fiche_auto_premium:s01:w00]\n\nLe contexte ne précise pas la franchise d'un deuxième sinistre dans l'année. La FAQ mentionne une option de rachat de franchise, disponible à la souscription ou au renouvellement en Confort/Premium, qui supprime la franchise dommages et bris de glace ; elle ne précise pas ici son articulation avec la limite annuelle du tableau. [fiche_auto_faq:s04:w00]\n\nSources : fiche_auto_premium.pdf, page 1 ; fiche_auto_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q4",
+      "mode": "hybrid",
+      "prompt_sha256": "88de94750b6888710094d1acf510d5b345dfadda1d042ee49a4f41767708e032",
+      "answer": "La ligne bris de glace de la formule Auto Premium indique 0 € de franchise, avec la précision « 1 sinistre/an ». Il ne s'agit donc pas d'une garantie d'absence illimitée de franchise. Le texte couvre vitrages, optiques et rétroviseurs extérieurs. [fiche_auto_premium:s01:w00]\n\nLa franchise de 50 € présente dans l'autre tableau concerne Confort, pas Premium. Une option de rachat est décrite pour Confort/Premium dans la FAQ, mais la franchise applicable au-delà du premier sinistre annuel n'est pas donnée dans les passages. [fiche_auto_confort:s01:w00] [fiche_auto_faq:s04:w00]\n\nSources : fiche_auto_premium.pdf, fiche_auto_confort.pdf et fiche_auto_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q4",
+      "mode": "hybrid_filtered",
+      "prompt_sha256": "ed785ee1e01cfbf42f87f29ab23b56118bd29daa9740a5f7ad2f4cede9873cbc",
+      "answer": "La franchise bris de glace Auto Premium est indiquée à 0 € pour un sinistre par an. Sont concernés les vitrages, optiques et rétroviseurs extérieurs, avec un plafond correspondant à la valeur réelle. [fiche_auto_premium:s01:w00]\n\nDeux dispositions distinctes figurent aussi dans le contexte : une option de rachat supprimant la franchise dommages/bris de glace en Confort/Premium, et une franchise offerte si le CRM est au plus égal à 0,70 depuis cinq années consécutives. Les documents retrouvés n'expliquent pas précisément leur articulation ni la franchise d'un deuxième bris de glace annuel. Je ne peux pas inventer ce montant. [fiche_auto_faq:s04:w00] [fiche_auto_premium:s03:w00]\n\nSources : fiche_auto_premium.pdf, pages 1 et 2 ; fiche_auto_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q5",
+      "mode": "dense",
+      "prompt_sha256": "74aa40cccbcbb5396840e528244b35f784a757a3e91fe82ceb787523e45274ad",
+      "answer": "Les exclusions liées aux activités à risque dépendent de la formule. En Essentiel, la fiche exclut les activités à risque non déclarées et donne comme exemples le deltaplane, l'alpinisme au-delà de 4 000 m et la boxe professionnelle. En Confort, elle exclut les activités à risque non déclarées, avec une liste remise à la souscription. En Premium, elle vise les activités ultra-extrêmes non déclarées et renvoie à une liste limitative en annexe. [fiche_vie_essentiel:s02:w00] [fiche_vie_confort:s02:w00] [fiche_vie_premium:s02:w00]\n\nLa FAQ distingue des activités couvertes de base — ski, moto, plongée à moins de 40 m, parachutisme — et d'autres nécessitant déclaration et surprime : alpinisme au-delà de 4 000 m, sports de combat professionnels, courses automobiles et plongée profonde. Elle indique qu'une fausse déclaration entraîne la nullité du contrat. Ce sont les indications des fiches de l'exercice, pas une validation juridique indépendante. [fiche_vie_faq:s03:w00]\n\nLa liste exhaustive et l'annexe auxquelles les documents renvoient ne sont pas contenues dans les passages retrouvés. Je ne peux pas transformer ces exemples en liste exhaustive ni décider du cas d'une activité non citée.\n\nSources : fiche_vie_essentiel.pdf, fiche_vie_confort.pdf, fiche_vie_premium.pdf et fiche_vie_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q5",
+      "mode": "hybrid",
+      "prompt_sha256": "50d213a3e10d754d704e71028255044fd541399ca96483558f165d68c72637d1",
+      "answer": "Les exclusions liées aux activités à risque dépendent de la formule. En Essentiel, la fiche exclut les activités à risque non déclarées et donne comme exemples le deltaplane, l'alpinisme au-delà de 4 000 m et la boxe professionnelle. En Confort, elle exclut les activités à risque non déclarées, avec une liste remise à la souscription. En Premium, elle vise les activités ultra-extrêmes non déclarées et renvoie à une liste limitative en annexe. [fiche_vie_essentiel:s02:w00] [fiche_vie_confort:s02:w00] [fiche_vie_premium:s02:w00]\n\nLa FAQ distingue des activités couvertes de base — ski, moto, plongée à moins de 40 m, parachutisme — et d'autres nécessitant déclaration et surprime : alpinisme au-delà de 4 000 m, sports de combat professionnels, courses automobiles et plongée profonde. Elle indique qu'une fausse déclaration entraîne la nullité du contrat. Ce sont les indications des fiches de l'exercice, pas une validation juridique indépendante. [fiche_vie_faq:s03:w00]\n\nLa liste exhaustive et l'annexe auxquelles les documents renvoient ne sont pas contenues dans les passages retrouvés. Je ne peux pas transformer ces exemples en liste exhaustive ni décider du cas d'une activité non citée.\n\nSources : fiche_vie_essentiel.pdf, fiche_vie_confort.pdf, fiche_vie_premium.pdf et fiche_vie_faq.pdf, page 1."
+    },
+    {
+      "question_id": "Q5",
+      "mode": "hybrid_filtered",
+      "prompt_sha256": "50d213a3e10d754d704e71028255044fd541399ca96483558f165d68c72637d1",
+      "answer": "Les exclusions liées aux activités à risque dépendent de la formule. En Essentiel, la fiche exclut les activités à risque non déclarées et donne comme exemples le deltaplane, l'alpinisme au-delà de 4 000 m et la boxe professionnelle. En Confort, elle exclut les activités à risque non déclarées, avec une liste remise à la souscription. En Premium, elle vise les activités ultra-extrêmes non déclarées et renvoie à une liste limitative en annexe. [fiche_vie_essentiel:s02:w00] [fiche_vie_confort:s02:w00] [fiche_vie_premium:s02:w00]\n\nLa FAQ distingue des activités couvertes de base — ski, moto, plongée à moins de 40 m, parachutisme — et d'autres nécessitant déclaration et surprime : alpinisme au-delà de 4 000 m, sports de combat professionnels, courses automobiles et plongée profonde. Elle indique qu'une fausse déclaration entraîne la nullité du contrat. Ce sont les indications des fiches de l'exercice, pas une validation juridique indépendante. [fiche_vie_faq:s03:w00]\n\nLa liste exhaustive et l'annexe auxquelles les documents renvoient ne sont pas contenues dans les passages retrouvés. Je ne peux pas transformer ces exemples en liste exhaustive ni décider du cas d'une activité non citée.\n\nSources : fiche_vie_essentiel.pdf, fiche_vie_confort.pdf, fiche_vie_premium.pdf et fiche_vie_faq.pdf, page 1."
+    }
+  ]
+}

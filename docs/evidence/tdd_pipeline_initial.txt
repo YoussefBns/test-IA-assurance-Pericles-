@@ -1,0 +1,44 @@
+FFFF                                                                     [100%]
+=================================== FAILURES ===================================
+_________________________ test_pipeline_module_exists __________________________
+
+    def test_pipeline_module_exists():
+>       assert importlib.util.find_spec('partie2_rag.pipeline') is not None
+E       AssertionError: assert None is not None
+E        +  where None = <function find_spec at 0x7f977748fb00>('partie2_rag.pipeline')
+E        +    where <function find_spec at 0x7f977748fb00> = <module 'importlib.util' (frozen)>.find_spec
+E        +      where <module 'importlib.util' (frozen)> = importlib.util
+
+tests/test_pipeline.py:10: AssertionError
+___________________ test_gold_evidence_is_real_and_complete ____________________
+
+    def test_gold_evidence_is_real_and_complete():
+>       from partie2_rag.pipeline import load_annotations
+E       ModuleNotFoundError: No module named 'partie2_rag.pipeline'
+
+tests/test_pipeline.py:13: ModuleNotFoundError
+___________________ test_missing_generation_remains_missing ____________________
+
+tmp_path = PosixPath('/tmp/pytest-of-root/pytest-2/test_missing_generation_remain0')
+
+    def test_missing_generation_remains_missing(tmp_path):
+>       from partie2_rag.pipeline import benchmark
+E       ModuleNotFoundError: No module named 'partie2_rag.pipeline'
+
+tests/test_pipeline.py:20: ModuleNotFoundError
+_________ test_reference_answers_cannot_be_imported_as_live_generation _________
+
+    def test_reference_answers_cannot_be_imported_as_live_generation():
+>       from partie2_rag.pipeline import attach_batch_answers,benchmark
+E       ModuleNotFoundError: No module named 'partie2_rag.pipeline'
+
+tests/test_pipeline.py:32: ModuleNotFoundError
+=========================== short test summary info ============================
+FAILED tests/test_pipeline.py::test_pipeline_module_exists - AssertionError: assert None is not None
+ +  where None = <function find_spec at 0x7f977748fb00>('partie2_rag.pipeline')
+ +    where <function find_spec at 0x7f977748fb00> = <module 'importlib.util' (frozen)>.find_spec
+ +      where <module 'importlib.util' (frozen)> = importlib.util
+FAILED tests/test_pipeline.py::test_gold_evidence_is_real_and_complete - ModuleNotFoundError: No module named 'partie2_rag.pipeline'
+FAILED tests/test_pipeline.py::test_missing_generation_remains_missing - ModuleNotFoundError: No module named 'partie2_rag.pipeline'
+FAILED tests/test_pipeline.py::test_reference_answers_cannot_be_imported_as_live_generation - ModuleNotFoundError: No module named 'partie2_rag.pipeline'
+4 failed in 0.06s

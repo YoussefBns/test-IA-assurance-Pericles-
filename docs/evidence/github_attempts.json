@@ -1,0 +1,36 @@
+{
+  "checked_at_utc": "2026-09-17T23:30:17.295966+00:00",
+  "supplied_path": "imsxm-perso/testyouseffet",
+  "listed_repository": "imsxm-perso/testyouseff",
+  "listed_id": 1375115389,
+  "listed_visibility": "private",
+  "attempts": [
+    {
+      "operation": "get_repo_by_supplied_url",
+      "result": 404
+    },
+    {
+      "operation": "get_repo_by_full_name",
+      "repository": "imsxm-perso/testyouseff",
+      "result": 404
+    },
+    {
+      "operation": "fetch_contents",
+      "repository": "imsxm-perso/testyouseff",
+      "result": 404
+    },
+    {
+      "operation": "create_file",
+      "repository": "imsxm-perso/testyouseff",
+      "path": "AGENTS.md",
+      "result": 404
+    },
+    {
+      "operation": "get_repo_by_id",
+      "id": 1375115389,
+      "result": 404
+    }
+  ],
+  "successful_write": false,
+  "diagnosis": "Dépôt listé mais inaccessible aux opérations utilisées. Cause exacte non établie ; ne pas affirmer une suppression ni un problème précis de permission."
+}

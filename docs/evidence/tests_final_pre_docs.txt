@@ -1,0 +1,24 @@
+....................................................                     [100%]
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.13.5-final-0 ________________
+
+Name                              Stmts   Miss  Cover   Missing
+---------------------------------------------------------------
+partie1_ml/__init__.py                0      0   100%
+partie1_ml/features.py               51      3    94%   37, 42, 52
+partie1_ml/train.py                 142    142     0%   6-195
+partie2_rag/__init__.py               0      0   100%
+partie2_rag/evaluation.py            14      0   100%
+partie2_rag/generation.py            40     14    65%   33-34, 37-50
+partie2_rag/ingest.py                63      4    94%   22, 25, 47, 78
+partie2_rag/pipeline.py             129     67    48%   36, 61-66, 85, 93-106, 109-121, 124, 127-169
+partie2_rag/retrieval.py            101      2    98%   69, 105
+partie3_mlops/__init__.py             0      0   100%
+partie3_mlops/app.py                 90      7    92%   47, 49, 53, 57, 98-100
+partie3_mlops/monitoring.py          57     33    42%   17, 20, 45-69, 85-95, 99
+partie3_mlops/schemas.py             51      1    98%   45
+partie3_mlops/tests/test_api.py      85      0   100%
+---------------------------------------------------------------
+TOTAL                               823    273    67%
+Coverage JSON written to file docs/evidence/coverage.json
+52 passed in 3.13s

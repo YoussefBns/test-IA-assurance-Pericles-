@@ -1,0 +1,4 @@
+{
+  "status": "not_executed",
+  "reason": "Exécutable Docker absent ; recette non validée en conteneur."
+}

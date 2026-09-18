@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "checks": 113,
+  "incompatible": [],
+  "scope": "Installed metadata and active Linux/Python markers; not a fresh network install."
+}

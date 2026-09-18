@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "method": "Extract the delivered ZIP into a separate directory, then run pytest and a real HTTP API smoke test.",
+  "environment": "Same installed Python and dependencies; NOT a fresh pip install or Docker/Windows test.",
+  "commands": [
+    {
+      "command": [
+        "-m",
+        "pytest",
+        "-q"
+      ],
+      "return_code": 0,
+      "evidence": "zip_extracted_pytest.txt",
+      "summary": "63 passed in 2.42s"
+    },
+    {
+      "command": [
+        "-m",
+        "scripts.smoke_api"
+      ],
+      "return_code": 0,
+      "evidence": "zip_extracted_http.txt",
+      "summary": "}"
+    }
+  ],
+  "generated_at_utc": "2026-09-17T23:35:44.579082+00:00"
+}

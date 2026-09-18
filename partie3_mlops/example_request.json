@@ -1,0 +1,21 @@
+{
+  "client_id": "DEMO-001",
+  "age": 45,
+  "situation_familiale": "Marié(e)",
+  "profession": "Salarié",
+  "region": "Île-de-France",
+  "anciennete_mois": 48,
+  "produit_principal": "Assurance Auto",
+  "niveau_couverture": "Confort",
+  "canal_souscription": "Web",
+  "prime_mensuelle_eur": 95.0,
+  "nb_sinistres_12m": 1,
+  "montant_sinistres_eur": 1500.0,
+  "nb_appels_support_12m": 2.0,
+  "nb_avenants_contrat": 1,
+  "retard_paiement_nb": 0,
+  "score_satisfaction": 4.0,
+  "resiliation_anterieure": 0,
+  "date_souscription": "2022-01-01",
+  "date_derniere_interaction": "2024-02-15"
+}

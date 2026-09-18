@@ -1,0 +1,30 @@
+{
+  "dense": {
+    "context_precision": 0.4,
+    "ranked_context_precision": 0.6,
+    "evidence_recall": 0.5833333333333334
+  },
+  "hybrid": {
+    "context_precision": 0.4,
+    "ranked_context_precision": 0.6333333333333333,
+    "evidence_recall": 0.5833333333333334
+  },
+  "hybrid_filtered": {
+    "context_precision": 0.52,
+    "ranked_context_precision": 0.6944444444444444,
+    "evidence_recall": 0.8166666666666667
+  },
+  "differences": {
+    "hybrid": {
+      "context_precision": 0.0,
+      "ranked_context_precision": 0.033333333333333326,
+      "evidence_recall": 0.0
+    },
+    "hybrid_filtered": {
+      "context_precision": 0.12,
+      "ranked_context_precision": 0.09444444444444444,
+      "evidence_recall": 0.23333333333333328
+    }
+  }
+}
+Traces : partie2_rag/results.json

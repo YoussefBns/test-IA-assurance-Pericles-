@@ -1,0 +1,40 @@
+{
+  "rows": 2000,
+  "columns": 20,
+  "positive_count": 492,
+  "churn_rate": 0.246,
+  "duplicate_clients": 0,
+  "missing": {
+    "client_id": 0,
+    "age": 0,
+    "situation_familiale": 0,
+    "profession": 0,
+    "region": 0,
+    "anciennete_mois": 0,
+    "produit_principal": 0,
+    "niveau_couverture": 0,
+    "canal_souscription": 0,
+    "prime_mensuelle_eur": 0,
+    "nb_sinistres_12m": 0,
+    "montant_sinistres_eur": 0,
+    "nb_appels_support_12m": 85,
+    "nb_avenants_contrat": 0,
+    "retard_paiement_nb": 0,
+    "score_satisfaction": 77,
+    "resiliation_anterieure": 0,
+    "date_souscription": 0,
+    "date_derniere_interaction": 0,
+    "churned": 0
+  },
+  "interaction_before_subscription": 0,
+  "date_souscription_range": [
+    "2022-01-01",
+    "2024-01-02"
+  ],
+  "date_derniere_interaction_range": [
+    "2022-01-24",
+    "2024-06-30"
+  ],
+  "dates_used_as_features": false,
+  "warning": "Date d'observation absente. Ancienneté déclarée non reconstruite depuis les dates."
+}

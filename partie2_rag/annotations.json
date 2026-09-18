@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "origin": "Revue assistée par ChatGPT des PDF et des sections extraites, avant calcul des scores de retrieval ; non validée humainement.",
+  "rubric": "Un passage pertinent répond directement à la question ou précise une condition applicable à la formule demandée. Un simple partage de gamme ou une garantie d’une autre formule ne suffit pas. Une contradiction documentaire pertinente compte comme preuve à signaler.",
+  "not_a_human_gold_standard": true,
+  "all_unlisted_chunks_relevant": false,
+  "scope": "Les 110 chunks de cette extraction ; les références doivent être revues si les documents ou les frontières de chunks changent.",
+  "corpus_sha256": "b604620464f7cf47addbd3ee2f8c6d26b773de71cb04bfdd9ae2a98a71672cf9",
+  "annotations": {
+    "Q1": [
+      {
+        "chunk_id": "fiche_habitation_confort:s01:w00",
+        "document": "fiche_habitation_confort.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nIncendie, explosion,\nfoudre\nFeu, explosion gaz, foudre directe et indirecte\nValeur de\nreconstruction\n380 € (legal)\nDegats des eaux\nFuites, infiltrations, gel des canalisations,\ndebordement\n150 000 €\n150 €\nVol et vandalisme\nEffraction, agression a domicile, cambriolage\n15 000 €\n200 €\nBris de glace\nVitres, velux, verranda, panneaux solaires\nValeur reelle\n50 €\nCatastrophes nat. et\ntech.\nInondation, seisme, pollution accidentelle\nValeur\nreconstruction\n380 € (legal)\nResponsabilite civile\nDommages a des tiers (vie privee + animaux\ndomestiques)\n3 000 000 €\nAucune\nAssistance habitation\n24h/24\nSerrurier, plombier, electricien en urgence\nInclus (3\ninterventions/an)\n50 €/intervention",
+        "reason": "Les sept garanties et leurs limites de la formule demandée."
+      },
+      {
+        "chunk_id": "fiche_habitation_faq:s01:w00",
+        "document": "fiche_habitation_faq.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Q. Suis-je couvert si je suis en location ?\nR. Oui. La garantie responsabilite civile locataire est obligatoire et incluse dans toutes nos formules.\nElle couvre les dommages que vous causeriez a votre logement ou a vos voisins (incendie, degats des\neaux). En Confort et Premium, vos biens mobiliers personnels sont egalement assures.",
+        "reason": "Complément sur la RC locataire et les biens mobiliers en Confort."
+      },
+      {
+        "chunk_id": "fiche_habitation_faq:s03:w00",
+        "document": "fiche_habitation_faq.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Q. Que couvre l'assistance habitation 24h/24 ?\nR. L'assistance couvre les urgences rendant le logement inhabitable ou dangereusement insecurise :\nserrure forcee ou defaillante, dégat des eaux actif, panne de chauffage en hiver (temperature < 5\ndegres). L'envoi d'un artisan agree est declenche dans un delai maximal de 2 heures.",
+        "reason": "Périmètre de l’assistance habitation incluse, délai et exemples."
+      }
+    ],
+    "Q2": [
+      {
+        "chunk_id": "fiche_sante_essentiel:s03:w00",
+        "document": "fiche_sante_essentiel.pdf",
+        "pages": [
+          1,
+          2
+        ],
+        "evidence_text": "Conditions de souscription\nAge d'adhesion\nDe 18 a 70 ans sans questionnaire de sante\nDelai de carence\n3 mois pour optique et dentaire (sauf affection longue duree)\nTiers payant\nDisponible chez les professionnels partenaires (reseau Care+)\nPortabilite\nMaintien des droits 12 mois apres fin de contrat de travail (loi Evin)\nResiliation\nLoi Chatel : preavis de 2 mois. Resiliation infra-annuelle apres 1 an",
+        "reason": "Délai initial optique/dentaire et exception ALD, sans extrapolation aux autres postes."
+      },
+      {
+        "chunk_id": "fiche_sante_faq:s04:w00",
+        "document": "fiche_sante_faq.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Q. Comment fonctionne la portabilite apres perte d'emploi ?\nR. Conformement a la loi Evin, votre couverture sante peut etre maintenue apres la fin de votre contrat\nde travail pendant une duree maximale de 12 mois, sans questionnaire medical ni delai de carence.\nVous devez en faire la demande dans les 6 mois suivant la fin de votre contrat. La cotisation ne peut\npas depasser 150% du tarif de base.",
+        "reason": "Cas distinct de portabilité : maintien sans délai de carence. Ne pas confondre avec une nouvelle adhésion."
+      }
+    ],
+    "Q3": [
+      {
+        "chunk_id": "fiche_pro_faq:s06:w00",
+        "document": "fiche_pro_faq.pdf",
+        "pages": [
+          1,
+          2
+        ],
+        "evidence_text": "Q. Comment resilier mon contrat Multirisque Pro en cours d'annee ?\nR. La resiliation infra-annuelle est possible apres la premiere echeance annuelle avec un preavis d'un\nmois (Confort et Premium) ou deux mois (Essentiel). Elle peut etre declenchee en cas de cessation\nd'activite, cession du fonds de commerce, modification substantielle du risque, ou apres un sinistre\n(dans les 30 jours suivant le reglement). Un justificatif est requis.",
+        "reason": "Résiliation en cours d’année : première échéance, préavis par formule, motifs, justificatif, délai après sinistre."
+      },
+      {
+        "chunk_id": "fiche_pro_essentiel:s03:w00",
+        "document": "fiche_pro_essentiel.pdf",
+        "pages": [
+          1,
+          2
+        ],
+        "evidence_text": "Conditions de souscription\nActivites eligibles\nTPE, independants, professions liberales non reglementees, artisans,\ncommercants\nChiffre d'affaires max\nJusqu'a 500 000 euros HT/an (au-dela : tarification sur mesure)\nSuperficie des locaux\nJusqu'a 200 m² par site\nDelai de carence\nAucun pour RC. 10 jours ouvrables pour garantie locaux\nResiliation\nEcheance annuelle avec preavis de 2 mois. Resiliation infra-annuelle\npossible apres 1 an",
+        "reason": "Résiliation Essentiel : échéance et infra-annuelle après un an."
+      },
+      {
+        "chunk_id": "fiche_pro_confort:s03:w00",
+        "document": "fiche_pro_confort.pdf",
+        "pages": [
+          1,
+          2
+        ],
+        "evidence_text": "Conditions de souscription\nActivites eligibles\nPME jusqu'a 50 salaries, professions liberales reglementees avec\navenant\nChiffre d'affaires max\nJusqu'a 5 000 000 euros HT/an\nLocaux\nJusqu'a 5 sites en France metropolitaine\nInventaire materiel\nRequis pour garantie materiel > 10 000 euros\nResiliation\nEcheance annuelle ou infra-annuelle apres 1 an, 1 mois de preavis",
+        "reason": "Résiliation Confort : après un an et préavis un mois."
+      },
+      {
+        "chunk_id": "fiche_pro_premium:s03:w00",
+        "document": "fiche_pro_premium.pdf",
+        "pages": [
+          1,
+          2
+        ],
+        "evidence_text": "Conditions de souscription\nEligibilite\nETI et PME > 50 salaries. Activites speciales sur etude de risque\nAudit prerequis\nAudit de risque obligatoire avant souscription (offert jusqu'a 500 000\neuros de prime)\nMultisite\nCouverture jusqu'a 50 sites en France et 10 a l'etranger (UE + liste pays)\nProgramme\ninternational\nPossible via le reseau de reassurance AssurCo Global (75 pays)\nResiliation\nClause break possible pour sinistralite exceptionnelle. Preavis 3 mois",
+        "reason": "Clause break particulière et préavis trois mois : nuance par rapport à la FAQ, ne pas la gommer."
+      }
+    ],
+    "Q4": [
+      {
+        "chunk_id": "fiche_auto_premium:s01:w00",
+        "document": "fiche_auto_premium.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nResponsabilite civile\nDommages corporels et materiels illimites\nIllimite\nAucune\nDommages tous\naccidents\nReparation ou valeur d'achat (vehicule < 2\nans)\nValeur achat si <\n2 ans\n150 €\nBris de glace\nTous vitrages + optiques et retros exterieurs\nValeur reelle\n0 € (1\nsinistre/an)\nVol et incendie\nVol total, partiel, tentative, incendie, explosion\nValeur achat -\n2%/an\n100 €\nCatastrophes nat./tech.\nNat, technologiques, attentats, emeutes\nValeur achat -\n2%/an\n380 € (legal)\nAssistance Premium 0\nkm\nDepannage, remorquage, vehicule de\nremplacement 7 jours, rapatriement\nIllimite\nAucune\nProtection conducteur\nCapital deces + PTIA + invalidite + frais\nmedicaux\n500 000 €\n0 €\nConfort de conduite\nPrise en charge du stationnement degrade,\ngriffures\n1 500 €/an\n100 €\nDefense penale\nFrais de defense, expertise, arbitrage amiable\n12 000 €\nAucune",
+        "reason": "Franchise bris de glace zéro euro limitée à un sinistre/an ; périmètre vitrages et optiques."
+      },
+      {
+        "chunk_id": "fiche_auto_faq:s04:w00",
+        "document": "fiche_auto_faq.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Q. Ma franchise est-elle rachetable ?\nR. Oui, pour les formules Confort et Premium. Une option rachat de franchise est disponible a la\nsouscription ou au renouvellement. Elle supprime la franchise sur les sinistres dommages et bris de\nglace. Non disponible sur la formule Essentiel.",
+        "reason": "Option rachat de franchise bris de glace en Confort/Premium ; information complémentaire, pas remplacement de la ligne spécifique."
+      },
+      {
+        "chunk_id": "fiche_auto_premium:s03:w00",
+        "document": "fiche_auto_premium.pdf",
+        "pages": [
+          1,
+          2
+        ],
+        "evidence_text": "Conditions de souscription\nAge minimum\n21 ans. Jeune conducteur : majoration de 30% la 1ere annee\nBonus-malus\nFranchise offerte si CRM <= 0.70 depuis 5 ans consecutifs\nVehicules eligibles\nVP, SUV, utilitaires <= 3,5 t. Vehicules de luxe (> 80 000 euros) :\navenant obligatoire\nDelai de carence\nAucun. Couverture immediate a la signature electronique\nResiliation\nEcheance annuelle + 2 mois, loi Hamon, ou tout moment apres 1 an\navec 1 mois de preavis (option premium)",
+        "reason": "Condition distincte de franchise offerte liée au CRM ; ne définit pas la franchise du second sinistre."
+      }
+    ],
+    "Q5": [
+      {
+        "chunk_id": "fiche_vie_essentiel:s02:w00",
+        "document": "fiche_vie_essentiel.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Principales exclusions\n• Suicide dans les 12 premiers mois du contrat\n• Deces en etat d'ivresse ou sous stupefiants prouves\n• Activites a risque non declarees (deltaplane, alpinisme > 4000 m, combat de boxe professionnel)\n• Guerre civile ou etrangere\n• Deces consecutif a une maladie non declaree a la souscription",
+        "reason": "Exclusions activités non déclarées avec exemples propres à Essentiel."
+      },
+      {
+        "chunk_id": "fiche_vie_confort:s02:w00",
+        "document": "fiche_vie_confort.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Principales exclusions\n• Suicide dans les 24 premiers mois\n• Activites a risques non declarees (liste remise a la souscription)\n• Invalidite consecutive a un etat anterieur non declare\n• Participation a une rixe ou acte illegal provoque",
+        "reason": "Exclusion des activités à risque non déclarées ; liste remise à la souscription."
+      },
+      {
+        "chunk_id": "fiche_vie_premium:s02:w00",
+        "document": "fiche_vie_premium.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Principales exclusions\n• Suicide dans les 12 premiers mois (capital verse des la 2e annee)\n• Guerre, attentat nucleaire, biologique ou chimique de masse\n• Activites a risques ultra-extremes non declarees (liste limitative en annexe)",
+        "reason": "Exclusion ultra-extrêmes non déclarées et renvoi à annexe non fournie."
+      },
+      {
+        "chunk_id": "fiche_vie_faq:s03:w00",
+        "document": "fiche_vie_faq.pdf",
+        "pages": [
+          1
+        ],
+        "evidence_text": "Q. Les activites sportives a risque sont-elles couvertes ?\nR. Certaines activites sont couvertes de base (ski, moto, plongee < 40 m, parachutisme). D'autres\nnecessitent une declaration et une surprime : alpinisme au-dela de 4 000 m, sports de combat\nprofessionnels, courses automobiles, plongee profonde. La liste exhaustive est remise a la\nsouscription. Une fausse declaration entraine la nullite du contrat.",
+        "reason": "Activités couvertes de base ou nécessitant déclaration/surprime ; liste non exhaustive."
+      }
+    ]
+  }
+}

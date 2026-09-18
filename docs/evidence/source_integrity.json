@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "files_identical_to_uploads": {
+    "data/dataset_assurance_churn.csv": true,
+    "docs/SUJET_ORIGINAL.md": true,
+    "data/fiches_produits/fiche_auto_faq.pdf": true,
+    "data/fiches_produits/fiche_vie_faq.pdf": true,
+    "data/fiches_produits/fiche_sante_faq.pdf": true,
+    "data/fiches_produits/fiche_vie_confort.pdf": true,
+    "data/fiches_produits/fiche_auto_essentiel.pdf": true,
+    "data/fiches_produits/fiche_vie_essentiel.pdf": true,
+    "data/fiches_produits/fiche_habitation_faq.pdf": true,
+    "data/fiches_produits/fiche_pro_confort.pdf": true,
+    "data/fiches_produits/fiche_sante_premium.pdf": true,
+    "data/fiches_produits/fiche_habitation_confort.pdf": true,
+    "data/fiches_produits/fiche_auto_confort.pdf": true,
+    "data/fiches_produits/fiche_habitation_essentiel.pdf": true,
+    "data/fiches_produits/fiche_vie_premium.pdf": true,
+    "data/fiches_produits/fiche_pro_faq.pdf": true,
+    "data/fiches_produits/fiche_auto_premium.pdf": true,
+    "data/fiches_produits/fiche_habitation_premium.pdf": true,
+    "data/fiches_produits/fiche_sante_essentiel.pdf": true,
+    "data/fiches_produits/fiche_sante_confort.pdf": true,
+    "data/fiches_produits/fiche_pro_premium.pdf": true,
+    "data/fiches_produits/fiche_pro_essentiel.pdf": true
+  }
+}

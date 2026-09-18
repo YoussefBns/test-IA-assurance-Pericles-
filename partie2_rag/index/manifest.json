@@ -1,0 +1,43 @@
+{
+  "format_version": 1,
+  "embedding": "TF-IDF(word 1-2 grams) + TruncatedSVD + L2 normalization",
+  "neural_pretrained": false,
+  "vector_store": "NumPy exact inner product of normalized vectors",
+  "dimension": 64,
+  "n_chunks": 110,
+  "n_documents": 20,
+  "sklearn_version": "1.8.0",
+  "seed": 42,
+  "chunking": {
+    "unit": "whitespace words",
+    "maximum": 240,
+    "overlap": 40
+  },
+  "fingerprints": {
+    "encoder.joblib": "7a82965ea3f33cabbb04954c7b090d9f42cb505b85c88815de290222e87ffdd8",
+    "vectors.npy": "bdcbdd65813bc55eda307a7a7cc925eb0d19bc5c2a4d2623baee2a84407e3f0d",
+    "chunks.json": "b604620464f7cf47addbd3ee2f8c6d26b773de71cb04bfdd9ae2a98a71672cf9"
+  },
+  "source_fingerprints": {
+    "fiche_auto_confort.pdf": "e2fe719071c2edd32ca67d5149b23621bb11f754c2447cf0fe6008ece94d5acf",
+    "fiche_auto_essentiel.pdf": "aa8637cab20d727ce94a6dcfdaace0bff3dec945eed7d2b8911869fbe42659d5",
+    "fiche_auto_faq.pdf": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "fiche_auto_premium.pdf": "0c464621917ff72bad9aff396bb3ec91a2a43dda7399880faab7124ec9f52e3b",
+    "fiche_habitation_confort.pdf": "22a769c9ce27851593f984f90613939f04f610796bff178c87ab1bd106800404",
+    "fiche_habitation_essentiel.pdf": "d5d766d53491d1a13dc3ecd4708907311d0cfa75b3380d9da04d31a8f3a2eb0b",
+    "fiche_habitation_faq.pdf": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "fiche_habitation_premium.pdf": "a31cbb5838c7d08c8f3d254c4133fe802e09dbc055d6f7c674b3a51e81a33609",
+    "fiche_pro_confort.pdf": "19854902482a7ac55aa0adadf4f03363fefe24c39cc3dc446cfe1e67b070d63d",
+    "fiche_pro_essentiel.pdf": "e36cf112aee1b14b8754b3fff9b8a3bd3173a3b2ba885e96c11461b8eefa10c7",
+    "fiche_pro_faq.pdf": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "fiche_pro_premium.pdf": "94f70be0d4a6ae230a027f0f3c9458bb0c97a0bb206a0449a40c37f0f608b24f",
+    "fiche_sante_confort.pdf": "268e73056240b34b0f6e024bac18dc02d254d47903903b38347c7970e006fab1",
+    "fiche_sante_essentiel.pdf": "46b6b11e37196197300231ee81633f4660617b27691f4dd9f52c52510d8e56b4",
+    "fiche_sante_faq.pdf": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "fiche_sante_premium.pdf": "69a1c2091efec21708bc392b0f8b70e602bae12d5d207afcd257dcf30038eeb2",
+    "fiche_vie_confort.pdf": "f05d36c4d2668c496c5f9f0672165122383ef933587f8c5aed45f2be14a56bc4",
+    "fiche_vie_essentiel.pdf": "27f93c9d19dabf1dc801561cb151e7f4b0d0f2ea6447b3aeadd3dc9a8ac70058",
+    "fiche_vie_faq.pdf": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "fiche_vie_premium.pdf": "3acea7d1a6b1a10817dfaa5e58c0057024f298c2c3c7071bb2e7593f15b82985"
+  }
+}

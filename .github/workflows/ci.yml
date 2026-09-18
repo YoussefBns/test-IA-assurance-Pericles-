@@ -1,0 +1,21 @@
+name: Tests et image API
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13.5'
+          cache: pip
+      - name: Installer les dépendances
+        run: python -m pip install -r requirements.txt
+      - name: Tests hors réseau et artefacts
+        run: python -m pytest -q
+      - name: Smoke HTTP réel
+        run: python -m scripts.smoke_api
+      - name: Build et smoke Docker réel
+        run: python -m scripts.smoke_docker

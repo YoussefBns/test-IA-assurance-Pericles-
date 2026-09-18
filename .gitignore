@@ -1,0 +1,18 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+htmlcov/
+logs/
+*.log
+*.zip
+*.egg-info/
+# Les artefacts finaux model.joblib et index/ sont volontairement conservés.
+# Vérifier le caractère privé du dépôt avant de partager les données du test.
+!docs/evidence/*.log

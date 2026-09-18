@@ -1,0 +1,6 @@
+{
+  "status": "unavailable",
+  "error_type": "URLError",
+  "detail": "<urlopen error [Errno -3] Temporary failure in name resolution>",
+  "scope": "Lecture de connectivité vers Hugging Face ; aucun fichier utilisateur envoyé."
+}

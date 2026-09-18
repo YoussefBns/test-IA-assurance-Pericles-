@@ -1,0 +1,1556 @@
+[
+  {
+    "chunk_id": "fiche_auto_confort:s00:w00",
+    "document": "fiche_auto_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Confort",
+    "section": "Présentation",
+    "text": "Protection etendue pour le quotidien et les imprevu.\nÀ partir de 89 €/mois",
+    "word_count": 13,
+    "source_sha256": "e2fe719071c2edd32ca67d5149b23621bb11f754c2447cf0fe6008ece94d5acf",
+    "text_sha256": "40dca20706266d1959f1bef3b0c786a240b76f5c4a21bd98efc8197e50fe8e88"
+  },
+  {
+    "chunk_id": "fiche_auto_confort:s01:w00",
+    "document": "fiche_auto_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Confort",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nResponsabilite civile\nDommages corporels et materiels causes a\ndes tiers\nIllimite (corporel)\nAucune\nDommages tous\naccidents\nReparation du vehicule quelle que soit la\nresponsabilite\nValeur Argus\n350 €\nBris de glace\nPare-brise, vitres laterales, lunette arriere, toit\npanoramique\nValeur reel\n50 €\nVol et incendie\nIndemnisation en cas de vol total, tentative de\nvol ou incendie\nValeur Argus -\n5%\n200 €\nCatastrophes naturelles\nDommages dus aux inondations, seismes,\ngrele reconnue\nValeur Argus\n380 € (legal)\nAssistance 0 km\nDepannage, remorquage, vehicule de\nremplacement (48h)\nInclus\nAucune\nProtection du\nconducteur\nIndemnisation blessures conducteur\nresponsable\n300 000 €\n300 €\nDefense penale et\nrecours\nFrais de defense et d'expertise amiable\n5 000 €\nAucune",
+    "word_count": 120,
+    "source_sha256": "e2fe719071c2edd32ca67d5149b23621bb11f754c2447cf0fe6008ece94d5acf",
+    "text_sha256": "aa1cea36f187120607969ab0309ce66be76fad49cc20d36e080c7121cdbf353d"
+  },
+  {
+    "chunk_id": "fiche_auto_confort:s02:w00",
+    "document": "fiche_auto_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Confort",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Alcool (> 0,5 g/L), stupefiants, refus d'alcootest\n• Dommages intentionnels ou frauduleux\n• Competition, rallye, circuit (meme non-officiel)\n• Usure normale, panne mecanique, defaut d'entretien\n• Vol sans effraction ni agression prouvee",
+    "word_count": 35,
+    "source_sha256": "e2fe719071c2edd32ca67d5149b23621bb11f754c2447cf0fe6008ece94d5acf",
+    "text_sha256": "a2faca5864b792289abb92df2aa1fed8aef96442e7ba0c9802a01d350d000722"
+  },
+  {
+    "chunk_id": "fiche_auto_confort:s03:w00",
+    "document": "fiche_auto_confort.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Auto",
+    "level": "Confort",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge minimum\n18 ans. Conducteur secondaire possible des 18 ans\nBonus-malus\nReprise du CRM. Pas de franchise si CRM <= 0.80 depuis 3 ans\nVehicules\nVP et utilitaires <= 3,5 t. Age max du vehicule : 15 ans pour les\ndommages\nDelai de carence\nAucun. Prise d'effet le lendemain de la souscription pour vol/incendie\nResiliation\nEcheance + 2 mois de preavis ou loi Hamon apres 1 an",
+    "word_count": 70,
+    "source_sha256": "e2fe719071c2edd32ca67d5149b23621bb11f754c2447cf0fe6008ece94d5acf",
+    "text_sha256": "3eb7a7d1150a25b8fcbea31f38596185aa5f5edec41cf71a7456828af8d2970c"
+  },
+  {
+    "chunk_id": "fiche_auto_confort:s04:w00",
+    "document": "fiche_auto_confort.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Auto",
+    "level": "Confort",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nFormule Confort\n89 €/mois\nToutes garanties ci-dessus incluses\nOption conducteur nomme\n-5 €/mois\nContrat conducteur unique (sans extension\nfamille)\nOption equipements high-tech\n+7 €/mois\nGPS, systeme audio, camera de recul",
+    "word_count": 35,
+    "source_sha256": "e2fe719071c2edd32ca67d5149b23621bb11f754c2447cf0fe6008ece94d5acf",
+    "text_sha256": "88351f05a37ca67072cca06911c4943324d5f762a551186ece2a9f1fc02c3ff0"
+  },
+  {
+    "chunk_id": "fiche_auto_essentiel:s00:w00",
+    "document": "fiche_auto_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Essentiel",
+    "section": "Présentation",
+    "text": "La protection essentielle pour rouler en toute sérénité.\nÀ partir de 49 €/mois",
+    "word_count": 13,
+    "source_sha256": "aa8637cab20d727ce94a6dcfdaace0bff3dec945eed7d2b8911869fbe42659d5",
+    "text_sha256": "4655757d6c2eb51166db284275658b42ad7913c9e1bc01e4be53f348e2b2838c"
+  },
+  {
+    "chunk_id": "fiche_auto_essentiel:s01:w00",
+    "document": "fiche_auto_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Essentiel",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nResponsabilité civile\nCouvre les dommages corporels et matériels\ncausés à des tiers\nIllimité (corporel)\nAucune\nDéfense pénale et\nrecours\nPrise en charge des frais de défense suite à\naccident\n3 000 €\nAucune\nAssistance 0 km\nDépannage et remorquage sur place, 24h/24,\n7j/7\nInclus\nAucune\nProtection du\nconducteur\nIndemnisation en cas de blessures du\nconducteur responsable\n150 000 €\n300 €",
+    "word_count": 68,
+    "source_sha256": "aa8637cab20d727ce94a6dcfdaace0bff3dec945eed7d2b8911869fbe42659d5",
+    "text_sha256": "11579acd512d586d48bd47d80032d4db24941ef2420849034c81728df0482471"
+  },
+  {
+    "chunk_id": "fiche_auto_essentiel:s02:w00",
+    "document": "fiche_auto_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Essentiel",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Conduite sous l'emprise d'alcool (taux > 0,5 g/L) ou de stupéfiants\n• Dommages intentionnels causés par l'assuré\n• Utilisation du vehicule a des fins de competition ou de course\n• Conducteur non declare au contrat",
+    "word_count": 38,
+    "source_sha256": "aa8637cab20d727ce94a6dcfdaace0bff3dec945eed7d2b8911869fbe42659d5",
+    "text_sha256": "78cee2c4a3675e564a8d56e1733f1e5a5983a7ed5a1804ec6837057f181ee03d"
+  },
+  {
+    "chunk_id": "fiche_auto_essentiel:s03:w00",
+    "document": "fiche_auto_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Essentiel",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge minimum du\nconducteur\n18 ans (majoration jeune conducteur applicable)\nBonus-malus\nReprise du coefficient CRM existant. Franchise majoree si CRM > 1.00\nVehicules eligibles\nVoitures particulieres jusqu'a 3,5 t. Vehicules de + de 25 ans : tarification\nspecifique\nDelai de carence\nAucun (prise d'effet immediate a la souscription)\nResiliation\nPossible a echeance annuelle avec preavis de 2 mois. Loi Hamon :\nresiliation possible apres 1 an",
+    "word_count": 69,
+    "source_sha256": "aa8637cab20d727ce94a6dcfdaace0bff3dec945eed7d2b8911869fbe42659d5",
+    "text_sha256": "bcc9375af211efaa566d6cc11a04b78f9c1faf806ca2e38d0e1eeae8f6d4de67"
+  },
+  {
+    "chunk_id": "fiche_auto_essentiel:s04:w00",
+    "document": "fiche_auto_essentiel.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Auto",
+    "level": "Essentiel",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nFormule de base\n49 €/mois\nResponsabilite civile + assistance + defense\nOption bris de glace\n+8 €/mois\nFranchise : 75 €\nOption vol/incendie\n+12 €/mois\nPlafond : valeur Argus - 10%",
+    "word_count": 36,
+    "source_sha256": "aa8637cab20d727ce94a6dcfdaace0bff3dec945eed7d2b8911869fbe42659d5",
+    "text_sha256": "8ae01ac0d900ded761c82219def3e45c4357ea7c3db7a3d4272d55ceede1b796"
+  },
+  {
+    "chunk_id": "fiche_auto_faq:s00:w00",
+    "document": "fiche_auto_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "FAQ",
+    "section": "Présentation",
+    "text": "Foire Aux Questions — Assurance Auto\nRetrouvez ici les reponses aux questions les plus frequentes posees par nos assures. Pour toute question\ncomplementaire, contactez votre conseiller AssurCo ou rendez-vous sur www.assurco.fr.",
+    "word_count": 31,
+    "source_sha256": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "text_sha256": "056c0697af292fb9acaba93e74e62ac302b4846fb5657f27ac6efe5e26906e13"
+  },
+  {
+    "chunk_id": "fiche_auto_faq:s01:w00",
+    "document": "fiche_auto_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "FAQ",
+    "section": "Q. Puis-je preter mon vehicule a un proche non declare ?",
+    "text": "Q. Puis-je preter mon vehicule a un proche non declare ?\nR. Avec la formule Essentiel, le conducteur doit etre declare. Avec Confort et Premium, le pret\noccasionnel est couvert si le conducteur possede le permis depuis au moins 2 ans. Declarez tout\nnouveau conducteur regulier sous peine de nullite du contrat.",
+    "word_count": 52,
+    "source_sha256": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "text_sha256": "47809648cc24f2fe95684fa7061cb3b974e67e586cbf38bf7a7b42c24e945c04"
+  },
+  {
+    "chunk_id": "fiche_auto_faq:s02:w00",
+    "document": "fiche_auto_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "FAQ",
+    "section": "Q. Comment est calcule mon coefficient bonus-malus (CRM) ?",
+    "text": "Q. Comment est calcule mon coefficient bonus-malus (CRM) ?\nR. Le CRM est mis a jour chaque annee au 31 mars. Une annee sans sinistre responsable le reduit de\n5% (minimum 0.50). Un sinistre responsable l'augmente de 25%. Deux sinistres dans l'annee : +50%.\nLe malus est plafonné a 3.50.",
+    "word_count": 50,
+    "source_sha256": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "text_sha256": "4021eaa84074ca7cb36eff0411922b790be50fffbbe84da7d3b64cc51699958d"
+  },
+  {
+    "chunk_id": "fiche_auto_faq:s03:w00",
+    "document": "fiche_auto_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "FAQ",
+    "section": "Q. Que se passe-t-il si mon vehicule est declare economiquement irreparable (VEI)",
+    "text": "Q. Que se passe-t-il si mon vehicule est declare economiquement irreparable (VEI)\n?\nR. Votre vehicule est indemnise sur la base de la valeur Argus au jour du sinistre (Confort) ou de la\nvaleur d'achat (Premium si < 2 ans). Vous pouvez racheter l'epave avec une decote negociee. Un\nexpert agree est mandate sous 5 jours ouvres.",
+    "word_count": 57,
+    "source_sha256": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "text_sha256": "5993686b54b1d877e9d2a6a6936ae93124265295ca14629e010fa7993bae723e"
+  },
+  {
+    "chunk_id": "fiche_auto_faq:s04:w00",
+    "document": "fiche_auto_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "FAQ",
+    "section": "Q. Ma franchise est-elle rachetable ?",
+    "text": "Q. Ma franchise est-elle rachetable ?\nR. Oui, pour les formules Confort et Premium. Une option rachat de franchise est disponible a la\nsouscription ou au renouvellement. Elle supprime la franchise sur les sinistres dommages et bris de\nglace. Non disponible sur la formule Essentiel.",
+    "word_count": 45,
+    "source_sha256": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "text_sha256": "330759bf42c91f4694b2bd498d8f91a30c6a3aa69522ff2ca21e7674e8664beb"
+  },
+  {
+    "chunk_id": "fiche_auto_faq:s05:w00",
+    "document": "fiche_auto_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "FAQ",
+    "section": "Q. Comment declarer un sinistre ?",
+    "text": "Q. Comment declarer un sinistre ?\nR. Via l'application AssurCo en moins de 5 minutes, par telephone au 09 72 72 72 72 (24h/24) ou en\nagence. Delai de declaration : 5 jours ouvres (2 jours pour vol). Joignez le constat amiable signe, vos\nphotos et tout document utile.",
+    "word_count": 49,
+    "source_sha256": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "text_sha256": "1746f2c0d338eb8e0253a7f9ebfca1ed9f8e467078aef92697b25c654bc9b78d"
+  },
+  {
+    "chunk_id": "fiche_auto_faq:s06:w00",
+    "document": "fiche_auto_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "FAQ",
+    "section": "Q. L'assistance 0 km couvre-t-elle les pannes a domicile ?",
+    "text": "Q. L'assistance 0 km couvre-t-elle les pannes a domicile ?\nR. Oui, pour toutes les formules. Si votre vehicule tombe en panne a moins d'1 km de votre domicile, la\nprise en charge inclut le remorquage jusqu'au garage agree. La formule Essentiel exclut le vehicule de\nremplacement ; Confort et Premium l'incluent.",
+    "word_count": 52,
+    "source_sha256": "54fe53571da9f1d0c63b8824c84b23cbd2ddaba6919cab45c3b748946cd5ace5",
+    "text_sha256": "51dc59a881a3cb7166af7d7c1aae4fc2a436c45f937749fa181327b75ccc6953"
+  },
+  {
+    "chunk_id": "fiche_auto_premium:s00:w00",
+    "document": "fiche_auto_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Premium",
+    "section": "Présentation",
+    "text": "La couverture integrale sans compromis.\nÀ partir de 149 €/mois",
+    "word_count": 10,
+    "source_sha256": "0c464621917ff72bad9aff396bb3ec91a2a43dda7399880faab7124ec9f52e3b",
+    "text_sha256": "0eb4f85e7119eb69826998117be0b65e3a806a57c12a410a0813c7a5a19dcd45"
+  },
+  {
+    "chunk_id": "fiche_auto_premium:s01:w00",
+    "document": "fiche_auto_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Premium",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nResponsabilite civile\nDommages corporels et materiels illimites\nIllimite\nAucune\nDommages tous\naccidents\nReparation ou valeur d'achat (vehicule < 2\nans)\nValeur achat si <\n2 ans\n150 €\nBris de glace\nTous vitrages + optiques et retros exterieurs\nValeur reelle\n0 € (1\nsinistre/an)\nVol et incendie\nVol total, partiel, tentative, incendie, explosion\nValeur achat -\n2%/an\n100 €\nCatastrophes nat./tech.\nNat, technologiques, attentats, emeutes\nValeur achat -\n2%/an\n380 € (legal)\nAssistance Premium 0\nkm\nDepannage, remorquage, vehicule de\nremplacement 7 jours, rapatriement\nIllimite\nAucune\nProtection conducteur\nCapital deces + PTIA + invalidite + frais\nmedicaux\n500 000 €\n0 €\nConfort de conduite\nPrise en charge du stationnement degrade,\ngriffures\n1 500 €/an\n100 €\nDefense penale\nFrais de defense, expertise, arbitrage amiable\n12 000 €\nAucune",
+    "word_count": 136,
+    "source_sha256": "0c464621917ff72bad9aff396bb3ec91a2a43dda7399880faab7124ec9f52e3b",
+    "text_sha256": "00c2ec43addb084461dd378d89f11c50404698ef90c9ed4d73e431249c573ab8"
+  },
+  {
+    "chunk_id": "fiche_auto_premium:s02:w00",
+    "document": "fiche_auto_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Auto",
+    "level": "Premium",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Alcool, stupefiants et tout produit alterant la vigilance\n• Dommages intentionnels prouves\n• Vehicules transformes hors normes constructeur\n• Utilisation a titre commercial (taxi, VTC) sauf avenant specifique",
+    "word_count": 31,
+    "source_sha256": "0c464621917ff72bad9aff396bb3ec91a2a43dda7399880faab7124ec9f52e3b",
+    "text_sha256": "50a26375ef02be651234fe1064cb18d1155a857597741f84b0ccb82e863027a4"
+  },
+  {
+    "chunk_id": "fiche_auto_premium:s03:w00",
+    "document": "fiche_auto_premium.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Auto",
+    "level": "Premium",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge minimum\n21 ans. Jeune conducteur : majoration de 30% la 1ere annee\nBonus-malus\nFranchise offerte si CRM <= 0.70 depuis 5 ans consecutifs\nVehicules eligibles\nVP, SUV, utilitaires <= 3,5 t. Vehicules de luxe (> 80 000 euros) :\navenant obligatoire\nDelai de carence\nAucun. Couverture immediate a la signature electronique\nResiliation\nEcheance annuelle + 2 mois, loi Hamon, ou tout moment apres 1 an\navec 1 mois de preavis (option premium)",
+    "word_count": 76,
+    "source_sha256": "0c464621917ff72bad9aff396bb3ec91a2a43dda7399880faab7124ec9f52e3b",
+    "text_sha256": "31252e64d96467b9ab40d0c504fd262008de230508c046fda97bdca76f5f6162"
+  },
+  {
+    "chunk_id": "fiche_auto_premium:s04:w00",
+    "document": "fiche_auto_premium.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Auto",
+    "level": "Premium",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nFormule Premium\n149 €/mois\nCouverture complete ci-dessus\nPack famille\n+20 €/mois\nExtension a 3 conducteurs supplementaires\nOption vehicule de substitution long\nterme\n+15 €/mois\nJusqu'a 21 jours/an",
+    "word_count": 32,
+    "source_sha256": "0c464621917ff72bad9aff396bb3ec91a2a43dda7399880faab7124ec9f52e3b",
+    "text_sha256": "2ba7356ee2ae6ba8d8dc371b6106cfcb485aeac412cf22255ee98ec82efaafb7"
+  },
+  {
+    "chunk_id": "fiche_habitation_confort:s00:w00",
+    "document": "fiche_habitation_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Confort",
+    "section": "Présentation",
+    "text": "Protection renforcee pour votre foyer et votre famille.\nÀ partir de 22 €/mois",
+    "word_count": 13,
+    "source_sha256": "22a769c9ce27851593f984f90613939f04f610796bff178c87ab1bd106800404",
+    "text_sha256": "abef19b2be95ac875c56f0204fcc97c1cb16544dfed5d7e082276fd77de145a4"
+  },
+  {
+    "chunk_id": "fiche_habitation_confort:s01:w00",
+    "document": "fiche_habitation_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Confort",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nIncendie, explosion,\nfoudre\nFeu, explosion gaz, foudre directe et indirecte\nValeur de\nreconstruction\n380 € (legal)\nDegats des eaux\nFuites, infiltrations, gel des canalisations,\ndebordement\n150 000 €\n150 €\nVol et vandalisme\nEffraction, agression a domicile, cambriolage\n15 000 €\n200 €\nBris de glace\nVitres, velux, verranda, panneaux solaires\nValeur reelle\n50 €\nCatastrophes nat. et\ntech.\nInondation, seisme, pollution accidentelle\nValeur\nreconstruction\n380 € (legal)\nResponsabilite civile\nDommages a des tiers (vie privee + animaux\ndomestiques)\n3 000 000 €\nAucune\nAssistance habitation\n24h/24\nSerrurier, plombier, electricien en urgence\nInclus (3\ninterventions/an)\n50 €/intervention",
+    "word_count": 104,
+    "source_sha256": "22a769c9ce27851593f984f90613939f04f610796bff178c87ab1bd106800404",
+    "text_sha256": "14d051211375f6fd6e65b8f9f83cf0458a3e50e25642baaf70d6a4fdd38d778f"
+  },
+  {
+    "chunk_id": "fiche_habitation_confort:s02:w00",
+    "document": "fiche_habitation_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Confort",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Bijoux, oeuvres d'art, collections non declares expressement\n• Dommages esthetiques sans cause accidentelle\n• Cambriolage si porte non fermee a cle\n• Biens appartenant a des locataires\n• Pannes d'appareils electromenagers (hors option)",
+    "word_count": 36,
+    "source_sha256": "22a769c9ce27851593f984f90613939f04f610796bff178c87ab1bd106800404",
+    "text_sha256": "3760aaf7258efad48fbb7455a0062daeda3d1082b92f7f057d5287bed8cbf45a"
+  },
+  {
+    "chunk_id": "fiche_habitation_confort:s03:w00",
+    "document": "fiche_habitation_confort.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Habitation",
+    "level": "Confort",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nTypes de logement\nResidence principale, secondaire et locataire\nSurface maximale\nJusqu'a 200 m² (au-dela : supplement de prime)\nDelai de carence vol\n5 jours ouvrables\nResiliation\nEcheance annuelle, loi Hamon apres 1 an, ou changement de situation\nEvaluation des biens\nInventaire recommande. Clause de sous-assurance appliquee si capital\ninsuffisant",
+    "word_count": 52,
+    "source_sha256": "22a769c9ce27851593f984f90613939f04f610796bff178c87ab1bd106800404",
+    "text_sha256": "7deb2d398ffeb4b050314aa723c74ee9cb7372d32cd9c9ece69f935508373c0e"
+  },
+  {
+    "chunk_id": "fiche_habitation_confort:s04:w00",
+    "document": "fiche_habitation_confort.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Habitation",
+    "level": "Confort",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nAppartement <= 90 m²\n22 €/mois\nToutes garanties incluses\nMaison 90-200 m²\n35 €/mois\nAvec garage et dependances\nOption jardinage et piscine\n+6 €/mois\nPiscine, mobilier exterieur, tondeuse\nOption valeurs et collections\n+8 €/mois\nBijoux declares jusqu'a 10 000 €",
+    "word_count": 45,
+    "source_sha256": "22a769c9ce27851593f984f90613939f04f610796bff178c87ab1bd106800404",
+    "text_sha256": "53e8b34333c54d8037ad6b7ee6e97bce7ab2cc3ce7f3e07773d770095c4bf871"
+  },
+  {
+    "chunk_id": "fiche_habitation_essentiel:s00:w00",
+    "document": "fiche_habitation_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Essentiel",
+    "section": "Présentation",
+    "text": "L'essentiel pour proteger votre logement et vos biens.\nÀ partir de 12 €/mois",
+    "word_count": 13,
+    "source_sha256": "d5d766d53491d1a13dc3ecd4708907311d0cfa75b3380d9da04d31a8f3a2eb0b",
+    "text_sha256": "c2c56d266d2282e40c98be78121fcbf9deb8dc11b3ba546c26e6cf6f49ec972d"
+  },
+  {
+    "chunk_id": "fiche_habitation_essentiel:s01:w00",
+    "document": "fiche_habitation_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Essentiel",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nIncendie et explosion\nDommages causes par le feu, l'explosion, la\nfoudre directe\nValeur reelle\n380 € (legal)\nDegats des eaux\nFuites, infiltrations, debordements (sauf\ninondation)\n100 000 €\n200 €\nBris de glace\nVitres, miroirs fixes, plaques vitroceramiques\nValeur reelle\n75 €\nResponsabilite civile vie\nprivee\nDommages causes a des tiers par vous ou\nvotre famille\n1 000 000 €\nAucune\nCatastrophes naturelles\nSelon arrete ministeriel\nValeur reelle\n380 € (legal)",
+    "word_count": 78,
+    "source_sha256": "d5d766d53491d1a13dc3ecd4708907311d0cfa75b3380d9da04d31a8f3a2eb0b",
+    "text_sha256": "f2652291f60785971ba8c2adb567b6544b447b361b3076ba128aae7ff00b2ccf"
+  },
+  {
+    "chunk_id": "fiche_habitation_essentiel:s02:w00",
+    "document": "fiche_habitation_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Essentiel",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Inondations sans arrete de catastrophe naturelle\n• Dommages dus a un defaut d'entretien caracterise\n• Objets de valeur non declares (bijoux, oeuvres d'art)\n• Biens professionnels et equipements commerciaux\n• Vol sans effraction prouvee",
+    "word_count": 37,
+    "source_sha256": "d5d766d53491d1a13dc3ecd4708907311d0cfa75b3380d9da04d31a8f3a2eb0b",
+    "text_sha256": "7f1fd026a3c3b71b3f49ebc9e30a2189a0284147f5b4fc831b06b95cc56529de"
+  },
+  {
+    "chunk_id": "fiche_habitation_essentiel:s03:w00",
+    "document": "fiche_habitation_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Essentiel",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nType de logement\nAppartement ou maison en residence principale ou secondaire\nSurface maximale\nJusqu'a 120 m² (au-dela : tarification specifique)\nDelai de carence\nAucun pour incendie/degats des eaux. 10 jours pour vol (si option)\nResiliation\nEcheance annuelle avec preavis de 2 mois. Loi Hamon apres 1 an\nJustificatifs\nJustificatif de domicile, titre de propriete ou bail de location",
+    "word_count": 61,
+    "source_sha256": "d5d766d53491d1a13dc3ecd4708907311d0cfa75b3380d9da04d31a8f3a2eb0b",
+    "text_sha256": "65c2196c0b0d1ef0dc0e7dda28189f55db51c54f285834a8220f816224da796b"
+  },
+  {
+    "chunk_id": "fiche_habitation_essentiel:s04:w00",
+    "document": "fiche_habitation_essentiel.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Habitation",
+    "level": "Essentiel",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nAppartement T1-T2\n12 €/mois\nSurface <= 50 m²\nAppartement T3-T4\n17 €/mois\nSurface 51-90 m²\nMaison jusqu'a 120 m²\n22 €/mois\nAvec dependances <= 30 m²\nOption vol et vandalisme\n+5 €/mois\nFranchise : 150 €, plafond 8 000 €",
+    "word_count": 45,
+    "source_sha256": "d5d766d53491d1a13dc3ecd4708907311d0cfa75b3380d9da04d31a8f3a2eb0b",
+    "text_sha256": "8d14c72dd597e2501a6a6692533291b3b5b1ab408a6b49a20054ee1b7f11f789"
+  },
+  {
+    "chunk_id": "fiche_habitation_faq:s00:w00",
+    "document": "fiche_habitation_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "FAQ",
+    "section": "Présentation",
+    "text": "Foire Aux Questions — Assurance Habitation\nRetrouvez ici les reponses aux questions les plus frequentes posees par nos assures. Pour toute question\ncomplementaire, contactez votre conseiller AssurCo ou rendez-vous sur www.assurco.fr.",
+    "word_count": 31,
+    "source_sha256": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "text_sha256": "6ce8328e16002675631958eccad680969eeb29cd25b5808225f78e92a874b6d7"
+  },
+  {
+    "chunk_id": "fiche_habitation_faq:s01:w00",
+    "document": "fiche_habitation_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "FAQ",
+    "section": "Q. Suis-je couvert si je suis en location ?",
+    "text": "Q. Suis-je couvert si je suis en location ?\nR. Oui. La garantie responsabilite civile locataire est obligatoire et incluse dans toutes nos formules.\nElle couvre les dommages que vous causeriez a votre logement ou a vos voisins (incendie, degats des\neaux). En Confort et Premium, vos biens mobiliers personnels sont egalement assures.",
+    "word_count": 53,
+    "source_sha256": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "text_sha256": "150e1ef83979c6f2cca81fdcc7bc7b0d0b1847d52869f45857fa3ab55cc4b46f"
+  },
+  {
+    "chunk_id": "fiche_habitation_faq:s02:w00",
+    "document": "fiche_habitation_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "FAQ",
+    "section": "Q. Comment est estimee la valeur de mes biens en cas de sinistre ?",
+    "text": "Q. Comment est estimee la valeur de mes biens en cas de sinistre ?\nR. En formule Essentiel et Confort, l'indemnisation est basee sur la valeur reelle (prix de remplacement\nminoree de la vetuste). En formule Premium, la valeur a neuf est appliquee pour les biens de moins de\n10 ans, sans deduction de vetuste. Un inventaire photographie est recommande.",
+    "word_count": 60,
+    "source_sha256": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "text_sha256": "be9180ef8fde1b79ca5bc1aeee008da75c60b9b9cc0b720f7577460802ed32cc"
+  },
+  {
+    "chunk_id": "fiche_habitation_faq:s03:w00",
+    "document": "fiche_habitation_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "FAQ",
+    "section": "Q. Que couvre l'assistance habitation 24h/24 ?",
+    "text": "Q. Que couvre l'assistance habitation 24h/24 ?\nR. L'assistance couvre les urgences rendant le logement inhabitable ou dangereusement insecurise :\nserrure forcee ou defaillante, dégat des eaux actif, panne de chauffage en hiver (temperature < 5\ndegres). L'envoi d'un artisan agree est declenche dans un delai maximal de 2 heures.",
+    "word_count": 50,
+    "source_sha256": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "text_sha256": "ef5aa26d307363456da3b81b0fca6f1357c23e34fc983931642465f2ee04bc82"
+  },
+  {
+    "chunk_id": "fiche_habitation_faq:s04:w00",
+    "document": "fiche_habitation_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "FAQ",
+    "section": "Q. Un cambriolage sans effraction est-il couvert ?",
+    "text": "Q. Un cambriolage sans effraction est-il couvert ?\nR. Non, sauf en formule Premium avec l'option agression. La preuve d'effraction (serrure forcee, vitrage\nbrise) ou d'agression est requise pour les formules Essentiel et Confort. Veillez a toujours fermer votre\nlogement a cle, y compris le temps d'une courte absence.",
+    "word_count": 49,
+    "source_sha256": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "text_sha256": "1d92e48e05576daf33b914f9a2f232ad7458d872e61714cc6b0dec9ce011dbac"
+  },
+  {
+    "chunk_id": "fiche_habitation_faq:s05:w00",
+    "document": "fiche_habitation_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "FAQ",
+    "section": "Q. Puis-je assurer une résidence secondaire ?",
+    "text": "Q. Puis-je assurer une résidence secondaire ?\nR. Oui, toutes nos formules couvrent les residences secondaires. Une surprime est applicable si la\nresidence est inoccupee plus de 90 jours consecutifs. La garantie vol peut etre exclue ou limitee\npendant les periodes d'inoccupation. Declarez votre situation exacte a la souscription.",
+    "word_count": 49,
+    "source_sha256": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "text_sha256": "631dc84a2fe9a3d1e2b5b01ea3f66f1bb9290e0fb6c48f4008d424a70016d2f8"
+  },
+  {
+    "chunk_id": "fiche_habitation_faq:s06:w00",
+    "document": "fiche_habitation_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "FAQ",
+    "section": "Q. Comment declarer un sinistre habitation ?",
+    "text": "Q. Comment declarer un sinistre habitation ?\nR. Appelez le 09 72 72 72 73 (24h/24 pour les urgences) ou connectez-vous a votre espace client.\nDelai de declaration : 5 jours ouvrables (2 jours pour vol, 10 jours pour catastrophe naturelle apres\narrete). Conservez les preuves : photos, factures, depot de plainte pour vol.",
+    "word_count": 54,
+    "source_sha256": "75a8a88ee2e54d0e497ac7285207e5d22e6f979d5fc16043cc3719e40ee2ab71",
+    "text_sha256": "ed6fee0f5eb2d4c48b4f112f4c92984eaf8a31e0e586c29db5501cd847ce6127"
+  },
+  {
+    "chunk_id": "fiche_habitation_premium:s00:w00",
+    "document": "fiche_habitation_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Premium",
+    "section": "Présentation",
+    "text": "La protection totale pour les biens d'exception.\nÀ partir de 55 €/mois",
+    "word_count": 12,
+    "source_sha256": "a31cbb5838c7d08c8f3d254c4133fe802e09dbc055d6f7c674b3a51e81a33609",
+    "text_sha256": "108af94769693cb32993d58586dcfb8083d90293c984baec7da22aa945bfd65b"
+  },
+  {
+    "chunk_id": "fiche_habitation_premium:s01:w00",
+    "document": "fiche_habitation_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Premium",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nIncendie, explosion,\nfoudre\nReconstruction a neuf, mobilier inclus\nValeur a neuf\n0 €\nDegats des eaux\nToutes origines y compris infiltrations par\ntoiture\n300 000 €\n0 €\nVol, vandalisme,\nagression\nEffraction, vol a la tire dans les 500 m du\ndomicile, agression\n50 000 €\n100 €\nBris de glace premium\nTous vitrages, miroirs, aquariums, tableaux\nsous verre\nValeur reelle\n0 €\nCatastrophes toutes\ncauses\nNaturelles, technologiques, attentat\nValeur a neuf\n380 € (legal)\nResponsabilite civile\nelargie\nTiers, animaux, activites associatives, sports\nloisirs\n10 000 000 €\nAucune\nAssistance premium\nSerrurier, plombier, gardien, hotel de\nremplacement 15 nuits/an\n3 000 €/event.\nAucune\nValeurs et objets d'art\nBijoux, oeuvres, collections (declares sur\navenant)\nSur avenant\n100 €",
+    "word_count": 124,
+    "source_sha256": "a31cbb5838c7d08c8f3d254c4133fe802e09dbc055d6f7c674b3a51e81a33609",
+    "text_sha256": "ac3dfa0afae1e07e1847d157fc883a3333c1f06b529f5ee47d9fdff284a79f5b"
+  },
+  {
+    "chunk_id": "fiche_habitation_premium:s02:w00",
+    "document": "fiche_habitation_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Habitation",
+    "level": "Premium",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Vetuste > 75% (sauf option valeur a neuf)\n• Locaux professionnels (hors avenant specifique)\n• Dommages causes intentionnellement ou par negligence grave caracterisee\n• Guerre, terrorisme nucleaire",
+    "word_count": 30,
+    "source_sha256": "a31cbb5838c7d08c8f3d254c4133fe802e09dbc055d6f7c674b3a51e81a33609",
+    "text_sha256": "aeaf63ad0d6ba42501577b520aa1146946cc03587070b32de8d5ee1d5d6867e5"
+  },
+  {
+    "chunk_id": "fiche_habitation_premium:s03:w00",
+    "document": "fiche_habitation_premium.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Habitation",
+    "level": "Premium",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nLogements eligibles\nVillas, maisons de maitre, appartements de standing. Surface illimitee\nInventaire obligatoire\nInventaire detaille des biens > 1 500 € requis a la souscription\nDelai de carence\nAucun\nResiliation\nTout moment avec 1 mois de preavis apres la 1ere annee\nExpertise\nExpertise contradictoire gratuite en cas de litige sur l'indemnisation",
+    "word_count": 54,
+    "source_sha256": "a31cbb5838c7d08c8f3d254c4133fe802e09dbc055d6f7c674b3a51e81a33609",
+    "text_sha256": "96edeccd253476139ca313cc1e56d148f51ee5a3a9ebe306f96ea72a4b400367"
+  },
+  {
+    "chunk_id": "fiche_habitation_premium:s04:w00",
+    "document": "fiche_habitation_premium.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Habitation",
+    "level": "Premium",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nAppartement premium / loft\n55 €/mois\nJusqu'a 300 m²\nVilla / maison de maitre\n95 €/mois\nSurface illimitee, dependances incluses\nOption valeurs declarees\nSur devis\nEn fonction de l'inventaire depose\nOption perte de loyers\n+12 €/mois\n24 mois de loyers en cas de sinistre majeur",
+    "word_count": 50,
+    "source_sha256": "a31cbb5838c7d08c8f3d254c4133fe802e09dbc055d6f7c674b3a51e81a33609",
+    "text_sha256": "cc52297f65c9953d757747733322f48392a6bca25f1db11ca2486f3b93c21375"
+  },
+  {
+    "chunk_id": "fiche_pro_confort:s00:w00",
+    "document": "fiche_pro_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Confort",
+    "section": "Présentation",
+    "text": "Protection etendue pour les PME ambitieuses.\nÀ partir de 180 €/mois",
+    "word_count": 11,
+    "source_sha256": "19854902482a7ac55aa0adadf4f03363fefe24c39cc3dc446cfe1e67b070d63d",
+    "text_sha256": "1704f5f3cca91d6c2984ba27247913c3dfe2a7dc4f69820144eef3fc21be7776"
+  },
+  {
+    "chunk_id": "fiche_pro_confort:s01:w00",
+    "document": "fiche_pro_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Confort",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nResponsabilite civile\npro elargie\nRC pro + RC produits + RC apres livraison\n5 000 000 €\n300 €\nGarantie locaux et\ncontenus\nIncendie, degats des eaux, vol, vandalisme,\nbris de machine\n300 000 €\n300 €\nMateriel et\nequipements\nMateriel informatique, machines, outils (valeur\na neuf < 5 ans)\n30 000 €\n200 €\nPertes d'exploitation\nPerte de marge brute apres sinistre majeur\n6 mois de CA\n5 jours\nProtection juridique\navancee\nLitiges salaries, fiscaux, contractuels, penaux\nprofessionnels\n30 000 €\nAucune\nAssistance pro 24h/24\nHotline juridique, depannage informatique\nd'urgence\nInclus\nAucune\nCyber protection\nbasique\nReconstruction de donnees post-piratage,\nnotification RGPD\n15 000 €\n500 €",
+    "word_count": 114,
+    "source_sha256": "19854902482a7ac55aa0adadf4f03363fefe24c39cc3dc446cfe1e67b070d63d",
+    "text_sha256": "383f39bcb794b9c321eedd07d2134ad85f20e0d33136a23e704986cebb2bbbbc"
+  },
+  {
+    "chunk_id": "fiche_pro_confort:s02:w00",
+    "document": "fiche_pro_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Confort",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Fraude interne et defalcation\n• Pertes anterieures au sinistre declares dans les 48h\n• Biens confies par des tiers (sauf option)\n• Dommages consecutifs a une inobservation deliberee des reglements de securite",
+    "word_count": 35,
+    "source_sha256": "19854902482a7ac55aa0adadf4f03363fefe24c39cc3dc446cfe1e67b070d63d",
+    "text_sha256": "67cb13f0c8b0f5cacc4b685abb52dbaef23ff7901f2b57f3941a8409b9f3b63e"
+  },
+  {
+    "chunk_id": "fiche_pro_confort:s03:w00",
+    "document": "fiche_pro_confort.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Multirisque Pro",
+    "level": "Confort",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nActivites eligibles\nPME jusqu'a 50 salaries, professions liberales reglementees avec\navenant\nChiffre d'affaires max\nJusqu'a 5 000 000 euros HT/an\nLocaux\nJusqu'a 5 sites en France metropolitaine\nInventaire materiel\nRequis pour garantie materiel > 10 000 euros\nResiliation\nEcheance annuelle ou infra-annuelle apres 1 an, 1 mois de preavis",
+    "word_count": 52,
+    "source_sha256": "19854902482a7ac55aa0adadf4f03363fefe24c39cc3dc446cfe1e67b070d63d",
+    "text_sha256": "5c55887842816820dd1af061f87cc58afbbce9e20be93ba05554e4790b11d76e"
+  },
+  {
+    "chunk_id": "fiche_pro_confort:s04:w00",
+    "document": "fiche_pro_confort.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Multirisque Pro",
+    "level": "Confort",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nPME 1-10 salaries\n180 €/mois\nToutes garanties ci-dessus\nPME 11-30 salaries\n320 €/mois\nMajoration effectif\nPME 31-50 salaries\n520 €/mois\nAudit de risque offert a la souscription\nOption biens confies\n+30 €/mois\nBiens de clients en reparation ou stockage",
+    "word_count": 44,
+    "source_sha256": "19854902482a7ac55aa0adadf4f03363fefe24c39cc3dc446cfe1e67b070d63d",
+    "text_sha256": "41a55ce2b5a5b11586a213430ab92376e1d6fdfaf3cbd3e80a9600e89c4003de"
+  },
+  {
+    "chunk_id": "fiche_pro_essentiel:s00:w00",
+    "document": "fiche_pro_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Essentiel",
+    "section": "Présentation",
+    "text": "La protection indispensable pour les TPE et independants.\nÀ partir de 80 €/mois",
+    "word_count": 13,
+    "source_sha256": "e36cf112aee1b14b8754b3fff9b8a3bd3173a3b2ba885e96c11461b8eefa10c7",
+    "text_sha256": "128f383851570948684606a2a5761ac2b03c247cb7a29316628de962c439bc2a"
+  },
+  {
+    "chunk_id": "fiche_pro_essentiel:s01:w00",
+    "document": "fiche_pro_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Essentiel",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nResponsabilite civile\nDommages causes aux tiers dans le cadre de\nl'activite pro\n2 000 000 €\n500 €\nGarantie locaux\nIncendie, degats des eaux, vol dans les locaux\nprofessionnels\n50 000 €\n500 €\nMateriel informatique\nOrdinateurs, serveurs, peripheriques (valeur\ndeclaree)\n5 000 €\n200 €\nProtection juridique pro\nLitiges contractuels, conflits\nclients/fournisseurs\n10 000 €\nAucune",
+    "word_count": 64,
+    "source_sha256": "e36cf112aee1b14b8754b3fff9b8a3bd3173a3b2ba885e96c11461b8eefa10c7",
+    "text_sha256": "ecca6ca447542d772a31cce1aae1738e3f6722c5937e9fc214c7cbcb0ebed05b"
+  },
+  {
+    "chunk_id": "fiche_pro_essentiel:s02:w00",
+    "document": "fiche_pro_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Essentiel",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Dommages intentionnels ou consecutifs a une faute inexcusable\n• Amendes, penalites et sanctions administratives\n• Responsabilite civile vehicules (couverte par assurance auto specifique)\n• Pertes d'exploitation (hors option)\n• Cyber-attaques et fraudes informatiques (hors option)",
+    "word_count": 38,
+    "source_sha256": "e36cf112aee1b14b8754b3fff9b8a3bd3173a3b2ba885e96c11461b8eefa10c7",
+    "text_sha256": "aa28ad4cf587045a27645c4bffb94c7a6c8665eeb12b6210e194f53a34a8fe31"
+  },
+  {
+    "chunk_id": "fiche_pro_essentiel:s03:w00",
+    "document": "fiche_pro_essentiel.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Multirisque Pro",
+    "level": "Essentiel",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nActivites eligibles\nTPE, independants, professions liberales non reglementees, artisans,\ncommercants\nChiffre d'affaires max\nJusqu'a 500 000 euros HT/an (au-dela : tarification sur mesure)\nSuperficie des locaux\nJusqu'a 200 m² par site\nDelai de carence\nAucun pour RC. 10 jours ouvrables pour garantie locaux\nResiliation\nEcheance annuelle avec preavis de 2 mois. Resiliation infra-annuelle\npossible apres 1 an",
+    "word_count": 60,
+    "source_sha256": "e36cf112aee1b14b8754b3fff9b8a3bd3173a3b2ba885e96c11461b8eefa10c7",
+    "text_sha256": "2695a645a12cce9c8e0d506e7dac088f9b80986380698cc701f170de077bbe42"
+  },
+  {
+    "chunk_id": "fiche_pro_essentiel:s04:w00",
+    "document": "fiche_pro_essentiel.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Multirisque Pro",
+    "level": "Essentiel",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nIndependant sans local\n80 €/mois\nRC pro + protection juridique\nTPE avec local jusqu'a 80 m²\n130 €/mois\nRC + garantie locaux + materiel informatique\nTPE 81-200 m²\n200 €/mois\nTarif de base + majoration surface\nOption pertes d'exploitation\n+40 €/mois\nPrise en charge des pertes si sinistre > 5\njours",
+    "word_count": 56,
+    "source_sha256": "e36cf112aee1b14b8754b3fff9b8a3bd3173a3b2ba885e96c11461b8eefa10c7",
+    "text_sha256": "4cae5ac2152fb6b7cd1b9845dde55fd167a419d12ee5c61479b9b38c880c7f8c"
+  },
+  {
+    "chunk_id": "fiche_pro_faq:s00:w00",
+    "document": "fiche_pro_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "FAQ",
+    "section": "Présentation",
+    "text": "Foire Aux Questions — Multirisque Pro\nRetrouvez ici les reponses aux questions les plus frequentes posees par nos assures. Pour toute question\ncomplementaire, contactez votre conseiller AssurCo ou rendez-vous sur www.assurco.fr.",
+    "word_count": 31,
+    "source_sha256": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "text_sha256": "d55f40f991dad0a1f4d17159d5ce924098aa11cc8c857d6268e12a5cb4feee98"
+  },
+  {
+    "chunk_id": "fiche_pro_faq:s01:w00",
+    "document": "fiche_pro_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "FAQ",
+    "section": "Q. Quelle est la difference entre la RC pro et la RC produits ?",
+    "text": "Q. Quelle est la difference entre la RC pro et la RC produits ?\nR. La RC professionnelle couvre les dommages causes a des tiers durant la prestation de service (ex.\nun consultant qui casse un serveur chez un client). La RC produits couvre les dommages causes apres\nlivraison d'un bien ou d'un produit (ex. un produit defectueux qui blesse un utilisateur). Les deux sont\nincluses en Confort et Premium. En Essentiel, seule la RC pro de base est couverte.",
+    "word_count": 80,
+    "source_sha256": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "text_sha256": "cc264b21bc0b6cef73ee43b43232dd32597ab261e34c9c26b8fae248d127507b"
+  },
+  {
+    "chunk_id": "fiche_pro_faq:s02:w00",
+    "document": "fiche_pro_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "FAQ",
+    "section": "Q. Les dommages causes par un sous-traitant sont-ils couverts ?",
+    "text": "Q. Les dommages causes par un sous-traitant sont-ils couverts ?\nR. En formule Essentiel et Confort, les dommages causes directement par vos sous-traitants sont\nexclus de votre contrat : chaque sous-traitant doit disposer de sa propre RC pro. En formule Premium,\nune option 'RC sous-traitants' permet de couvrir votre responsabilite en cas de defaillance d'un\nsous-traitant identifie sur avenant.",
+    "word_count": 59,
+    "source_sha256": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "text_sha256": "12a057a3dd162a14174386b4900fb332cc3fec2f93726d6fafe28e64852e688b"
+  },
+  {
+    "chunk_id": "fiche_pro_faq:s03:w00",
+    "document": "fiche_pro_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "FAQ",
+    "section": "Q. Comment fonctionne la garantie pertes d'exploitation ?",
+    "text": "Q. Comment fonctionne la garantie pertes d'exploitation ?\nR. La garantie pertes d'exploitation indemnise la perte de marge brute que vous subissez apres un\nsinistre couvert (incendie, degat des eaux...) rendant tout ou partie de votre activite impossible. Un\nexpert designe par AssurCo calcule la perte reelle sur la base de vos comptes N-1. Le delai de carence\nest de 5 jours ouvrables (48h en Premium).",
+    "word_count": 66,
+    "source_sha256": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "text_sha256": "0a90eb0bd7f61c44de9ecec011032ee9ce8262f36967a1e30090b9af26f93e6b"
+  },
+  {
+    "chunk_id": "fiche_pro_faq:s04:w00",
+    "document": "fiche_pro_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "FAQ",
+    "section": "Q. La cyber assurance couvre-t-elle les attaques par ranconware ?",
+    "text": "Q. La cyber assurance couvre-t-elle les attaques par ranconware ?\nR. En formule Confort, la cyber protection de base couvre la reconstruction des donnees et la\nnotification obligatoire a la CNIL, mais pas le paiement de la rancon. En Premium, la garantie cyber\navancee couvre les couts de gestion de crise, de restauration des systemes, les pertes d'exploitation\nliees et les honoraires d'experts forensiques. Le paiement de la rancon reste exclu dans tous les cas.",
+    "word_count": 75,
+    "source_sha256": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "text_sha256": "123400eb93aa1987a2cf39d4b357a71a3bd80e271cc52756b2ee08062b3c1c64"
+  },
+  {
+    "chunk_id": "fiche_pro_faq:s05:w00",
+    "document": "fiche_pro_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "FAQ",
+    "section": "Q. Puis-je assurer des biens appartenant a mes clients et confies a mon entreprise",
+    "text": "Q. Puis-je assurer des biens appartenant a mes clients et confies a mon entreprise\n?\nR. En Essentiel et Confort standard, les biens confies par des tiers sont exclus. En Confort avec l'option\n'biens confies' (+30 euros/mois) et en Premium, ces biens sont couverts en cas de sinistre dans vos\nlocaux (incendie, vol, degats des eaux). Un inventaire des biens confies doit etre tenu a jour et\naccessible en cas de sinistre.",
+    "word_count": 72,
+    "source_sha256": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "text_sha256": "04c9c8e84313bd8ea5be68a46d9d22653ad869e21f7594f76a3df758208d7e51"
+  },
+  {
+    "chunk_id": "fiche_pro_faq:s06:w00",
+    "document": "fiche_pro_faq.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Multirisque Pro",
+    "level": "FAQ",
+    "section": "Q. Comment resilier mon contrat Multirisque Pro en cours d'annee ?",
+    "text": "Q. Comment resilier mon contrat Multirisque Pro en cours d'annee ?\nR. La resiliation infra-annuelle est possible apres la premiere echeance annuelle avec un preavis d'un\nmois (Confort et Premium) ou deux mois (Essentiel). Elle peut etre declenchee en cas de cessation\nd'activite, cession du fonds de commerce, modification substantielle du risque, ou apres un sinistre\n(dans les 30 jours suivant le reglement). Un justificatif est requis.",
+    "word_count": 67,
+    "source_sha256": "cccc29b41d28a700e94c11f8667767071ccaf18e857d3c07c2df2c7e86c1e240",
+    "text_sha256": "fdcd84cc066260e45a7a62fe13c9df9e5fe55e269b209637fcea9615f12942d6"
+  },
+  {
+    "chunk_id": "fiche_pro_premium:s00:w00",
+    "document": "fiche_pro_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Premium",
+    "section": "Présentation",
+    "text": "La solution globale pour les entreprises a forts enjeux.\nSur devis (à partir de\n600 €/mois)",
+    "word_count": 16,
+    "source_sha256": "94f70be0d4a6ae230a027f0f3c9458bb0c97a0bb206a0449a40c37f0f608b24f",
+    "text_sha256": "3190ce409f89863cbbc6e023f30d460a06d50c8f1564c058a6879cd5764fa6a0"
+  },
+  {
+    "chunk_id": "fiche_pro_premium:s01:w00",
+    "document": "fiche_pro_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Premium",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nRC pro tous risques\nRC pro, RC produits, RC professionnelle, RC\ndirigeants\n20 000 000 €\n0 € option rachat\nDommages aux biens\ncomplets\nTous risques materiels, bris de machines, EEN\nSur evaluation\n300 €\nPertes d'exploitation\nlongue\nPerte de marge brute sur 24 mois maximum\n24 mois de CA\n48h\nCyber assurance\navancee\nRanconware, fraude au president, intrusion,\nDDoS, RGPD\n2 000 000 €\n1 000 €\nProtection juridique\nLitiges sociaux, fiscaux, penal pro, PI, droit de\nla concurrence\n100 000 €\nAucune\nRC dirigeants (D&O;)\nMise en cause personnelle des dirigeants\n5 000 000 €\nAucune\nTransport et\nmarchandises\nTransport routier, aerien, maritime\nSur declaration\nSelon mode\nAssistance\ninternationale\nGestion de crise, cellule juridique locale,\nrapatriement personnel\nIllimitee\nAucune",
+    "word_count": 128,
+    "source_sha256": "94f70be0d4a6ae230a027f0f3c9458bb0c97a0bb206a0449a40c37f0f608b24f",
+    "text_sha256": "dd4182b3bf44cea59b22f650cf8394cf127848a82f7b9d676a1a3c34c182c800"
+  },
+  {
+    "chunk_id": "fiche_pro_premium:s02:w00",
+    "document": "fiche_pro_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Multirisque Pro",
+    "level": "Premium",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Contamination intentionnelle de produits\n• Sanctions economiques internationales (OFAC, UE)\n• Dommages nucleaires\n• Fraude interne sauf option malveillance employe",
+    "word_count": 23,
+    "source_sha256": "94f70be0d4a6ae230a027f0f3c9458bb0c97a0bb206a0449a40c37f0f608b24f",
+    "text_sha256": "1348302458e4a6c1eb4dd1012bf29a7e1382389f5c41d4945a60b751c7990462"
+  },
+  {
+    "chunk_id": "fiche_pro_premium:s03:w00",
+    "document": "fiche_pro_premium.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Multirisque Pro",
+    "level": "Premium",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nEligibilite\nETI et PME > 50 salaries. Activites speciales sur etude de risque\nAudit prerequis\nAudit de risque obligatoire avant souscription (offert jusqu'a 500 000\neuros de prime)\nMultisite\nCouverture jusqu'a 50 sites en France et 10 a l'etranger (UE + liste pays)\nProgramme\ninternational\nPossible via le reseau de reassurance AssurCo Global (75 pays)\nResiliation\nClause break possible pour sinistralite exceptionnelle. Preavis 3 mois",
+    "word_count": 68,
+    "source_sha256": "94f70be0d4a6ae230a027f0f3c9458bb0c97a0bb206a0449a40c37f0f608b24f",
+    "text_sha256": "deff2228af984143026f33c70afe0ab0610ec94834bc14f7ba47d6ca08883eef"
+  },
+  {
+    "chunk_id": "fiche_pro_premium:s04:w00",
+    "document": "fiche_pro_premium.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Multirisque Pro",
+    "level": "Premium",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nA partir de\n600 €/mois\nDevis personnalise apres audit\nFranchise rachetable\nOption disponible\nToutes garanties sauf RC legale\nClause d'indexation\nAutomatique sur\nl'indice\nsynthetique\nBTP/industriel\nAnnuelle",
+    "word_count": 31,
+    "source_sha256": "94f70be0d4a6ae230a027f0f3c9458bb0c97a0bb206a0449a40c37f0f608b24f",
+    "text_sha256": "d82c7eec45b7f1a175ba93557da5dd7091d2ca5e009bc2eef925a32db54eaa19"
+  },
+  {
+    "chunk_id": "fiche_sante_confort:s00:w00",
+    "document": "fiche_sante_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Confort",
+    "section": "Présentation",
+    "text": "Un remboursement renforce pour prendre soin de vous sans\narbitrage.\nÀ partir de 68 €/mois",
+    "word_count": 15,
+    "source_sha256": "268e73056240b34b0f6e024bac18dc02d254d47903903b38347c7970e006fab1",
+    "text_sha256": "7b42355dce7d68d8b9dbf7233b12b9da2d4296e01755a158094411d78247859f"
+  },
+  {
+    "chunk_id": "fiche_sante_confort:s01:w00",
+    "document": "fiche_sante_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Confort",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nConsultations medecin\nSecteurs 1, 2 et 3 avec depassements partiels\n150% BR\nAucune\nPharmacie\nMedicaments SS + parapharmacie sur\nordonnance\n130% BR\nAucune\nHospitalisation\nFrais de sejour, chambre individuelle, lit\naccompagnant\n200% FR\nAucune\nBiologie et radiologie\navancee\nIRM, scanner, echographie, examens de\ngenetique\n150% BR\nAucune\nOptique (adulte)\nEquipements standards et complexes avec\ncycle 2 ans\n250 € / 2 ans\nAucune\nDentaire\nSoins, protheses du panier 100% sante,\ninlays/onlays\n200% BR\nAucune\nMedecine douce\nOsteopathie, acupuncture (3 seances/an),\nnutrition\n75 €/an\nAucune\nPrevention\nBilan de sante annuel, vaccins non\nrembourses, sevrage tabac\n150 €/an\nAucune",
+    "word_count": 104,
+    "source_sha256": "268e73056240b34b0f6e024bac18dc02d254d47903903b38347c7970e006fab1",
+    "text_sha256": "a6e99ac0cbf6b155698dca8caa52b61dba6c4275615bfc490b6e21eece7a721f"
+  },
+  {
+    "chunk_id": "fiche_sante_confort:s02:w00",
+    "document": "fiche_sante_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Confort",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Implants dentaires et protheses de haute technicite (hors avenant)\n• Chirurgie esthetique non medicalement indiquee\n• Procreation medicalement assistee au-dela du parcours SS\n• Cures thermales sans prescription SS",
+    "word_count": 32,
+    "source_sha256": "268e73056240b34b0f6e024bac18dc02d254d47903903b38347c7970e006fab1",
+    "text_sha256": "f5d80c7d6c1ac585d27dfb5b0f92d3fc1f851df7ecacb080a85d90aadced2f14"
+  },
+  {
+    "chunk_id": "fiche_sante_confort:s03:w00",
+    "document": "fiche_sante_confort.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Santé",
+    "level": "Confort",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge d'adhesion\nDe 18 a 75 ans. Questionnaire sante requis apres 65 ans\nDelai de carence\n1 mois generaliste. 3 mois optique, dentaire, audio\nTiers payant generalise\nChez tous les professionnels de sante\nReseau soins\nAcces au reseau OptSante (2 800 opticiens et 950 dentistes partenaires)\nResiliation\nInfra-annuelle apres 1 an avec 1 mois de preavis",
+    "word_count": 59,
+    "source_sha256": "268e73056240b34b0f6e024bac18dc02d254d47903903b38347c7970e006fab1",
+    "text_sha256": "cacd77d31b8b4602c5fa9a435340d3f107393e6a2065609de99bdb28ee889673"
+  },
+  {
+    "chunk_id": "fiche_sante_confort:s04:w00",
+    "document": "fiche_sante_confort.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Santé",
+    "level": "Confort",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nIndividuel 18-35 ans\n68 €/mois\nIndividuel 36-55 ans\n95 €/mois\nIndividuel 56-75 ans\n138 €/mois\nFamille (2 adultes + enfants)\nDe 185 €/mois\nNombre d'enfants illimite",
+    "word_count": 31,
+    "source_sha256": "268e73056240b34b0f6e024bac18dc02d254d47903903b38347c7970e006fab1",
+    "text_sha256": "9ca93a34a17bd4feb6aab3d6450ba1149fd8856b14395225dd8ec9665d92b49f"
+  },
+  {
+    "chunk_id": "fiche_sante_essentiel:s00:w00",
+    "document": "fiche_sante_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Essentiel",
+    "section": "Présentation",
+    "text": "Le complement de base au remboursement de la Securite\nsociale.\nÀ partir de 35 €/mois",
+    "word_count": 15,
+    "source_sha256": "46b6b11e37196197300231ee81633f4660617b27691f4dd9f52c52510d8e56b4",
+    "text_sha256": "d34647d0021146231ef98fc44fd7dbab34e526a7e086f47140ded1c011168a6b"
+  },
+  {
+    "chunk_id": "fiche_sante_essentiel:s01:w00",
+    "document": "fiche_sante_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Essentiel",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nConsultations medecin\nPraticiens secteur 1 et 2 (dans les limites\nOPTAM)\n100% BR\nAucune\nPharmacie\nMedicaments rembourses par la SS (liste\npositive)\n100% BR\nAucune\nHospitalisation\nchirurgicale\nFrais de sejour, honoraires chirurgiens\nOPTAM\n100% FR\nFranchise 1er\njour\nBiologie et radiologie\nAnalyses de laboratoire, radiographies\nstandard\n100% BR\nAucune\nOptique (adulte)\nMontures + verres (equipement standard)\n100 € / 2 ans\nAucune\nDentaire\nSoins courants (caries, detartrages)\n100% BR\nAucune",
+    "word_count": 77,
+    "source_sha256": "46b6b11e37196197300231ee81633f4660617b27691f4dd9f52c52510d8e56b4",
+    "text_sha256": "98b242afe0ff90f391014e17df46251f0268ea13412be30368c49f9cf0a56a40"
+  },
+  {
+    "chunk_id": "fiche_sante_essentiel:s02:w00",
+    "document": "fiche_sante_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Essentiel",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Medecine douce (osteopathie, acupuncture, homeopathie) non conventionnee\n• Implants dentaires et protheses haut de gamme\n• Chirurgie esthetique sans indication medicale\n• Cures thermales\n• Depassements d'honoraires hors OPTAM",
+    "word_count": 32,
+    "source_sha256": "46b6b11e37196197300231ee81633f4660617b27691f4dd9f52c52510d8e56b4",
+    "text_sha256": "e1b8770500ae97ebc24751a55cfdcd92e93e3046d683dad7714fc6286064b7f5"
+  },
+  {
+    "chunk_id": "fiche_sante_essentiel:s03:w00",
+    "document": "fiche_sante_essentiel.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Santé",
+    "level": "Essentiel",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge d'adhesion\nDe 18 a 70 ans sans questionnaire de sante\nDelai de carence\n3 mois pour optique et dentaire (sauf affection longue duree)\nTiers payant\nDisponible chez les professionnels partenaires (reseau Care+)\nPortabilite\nMaintien des droits 12 mois apres fin de contrat de travail (loi Evin)\nResiliation\nLoi Chatel : preavis de 2 mois. Resiliation infra-annuelle apres 1 an",
+    "word_count": 63,
+    "source_sha256": "46b6b11e37196197300231ee81633f4660617b27691f4dd9f52c52510d8e56b4",
+    "text_sha256": "b002c80e125df47a239c8fd7f58affb130178ac6a61a109c58e8ba47864c2d0b"
+  },
+  {
+    "chunk_id": "fiche_sante_essentiel:s04:w00",
+    "document": "fiche_sante_essentiel.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Santé",
+    "level": "Essentiel",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nIndividuel 18-35 ans\n35 €/mois\nIndividuel 36-55 ans\n52 €/mois\nIndividuel 56-70 ans\n78 €/mois\nExtension conjoint\n+25 €/mois\nMeme gamme\nExtension enfant\n+10 €/enfant/mois\nJusqu'a 25 ans si etudiant",
+    "word_count": 35,
+    "source_sha256": "46b6b11e37196197300231ee81633f4660617b27691f4dd9f52c52510d8e56b4",
+    "text_sha256": "a60d275b5505ab96e1c1f217200060cefba24c18f4843bc5ed3fab76666e4d93"
+  },
+  {
+    "chunk_id": "fiche_sante_faq:s00:w00",
+    "document": "fiche_sante_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "FAQ",
+    "section": "Présentation",
+    "text": "Foire Aux Questions — Assurance Sante\nRetrouvez ici les reponses aux questions les plus frequentes posees par nos assures. Pour toute question\ncomplementaire, contactez votre conseiller AssurCo ou rendez-vous sur www.assurco.fr.",
+    "word_count": 31,
+    "source_sha256": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "text_sha256": "31037f414d18951e8fa05fe81e0e216425e03ff23f67bcbdaf944d4acf21e026"
+  },
+  {
+    "chunk_id": "fiche_sante_faq:s01:w00",
+    "document": "fiche_sante_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "FAQ",
+    "section": "Q. Qu'est-ce que le tiers payant et comment en beneficier ?",
+    "text": "Q. Qu'est-ce que le tiers payant et comment en beneficier ?\nR. Le tiers payant vous dispense de faire l'avance des frais chez le professionnel de sante. Presentez\nvotre carte vitale et votre carte de mutuelle. La Securite sociale et AssurCo reglent directement le\npraticien. Le tiers payant generalise est disponible en Confort et Premium chez tous les professionnels\nde sante en France.",
+    "word_count": 63,
+    "source_sha256": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "text_sha256": "e4840eaedbbfc748a120a4e639e83d8e2f80ac1d594d66ee6b2e21117b21b9c5"
+  },
+  {
+    "chunk_id": "fiche_sante_faq:s02:w00",
+    "document": "fiche_sante_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "FAQ",
+    "section": "Q. Quels sont les delais de remboursement ?",
+    "text": "Q. Quels sont les delais de remboursement ?\nR. Les remboursements sont effectues sous 5 jours ouvres apres reception des decomptes de la\nSecurite sociale. En cas de tiers payant, aucune avance n'est necessaire. Le detail de vos\nremboursements est accessible en temps reel dans votre espace client et l'application AssurCo Sante.",
+    "word_count": 52,
+    "source_sha256": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "text_sha256": "985f5653965aea56f9a36452ab03fc7d01f90dbf0c8623be096e1d87543dd432"
+  },
+  {
+    "chunk_id": "fiche_sante_faq:s03:w00",
+    "document": "fiche_sante_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "FAQ",
+    "section": "Q. La psychotherapie est-elle remboursee ?",
+    "text": "Q. La psychotherapie est-elle remboursee ?\nR. En formule Essentiel, les seances de psychologue ne sont prises en charge que si elles s'inscrivent\ndans le dispositif Mon soutien psy de la SS. En Confort, 3 seances de psychotherapie incluant les TCC\nsont couvertes a 75 euros l'an. En Premium, 20 seances sont prises en charge dans la limite du plafond\nmedecine douce.",
+    "word_count": 62,
+    "source_sha256": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "text_sha256": "492324d42881f239bf5c5a6fb39ae78de51dab737463040fa78eb5491ac3e2a7"
+  },
+  {
+    "chunk_id": "fiche_sante_faq:s04:w00",
+    "document": "fiche_sante_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "FAQ",
+    "section": "Q. Comment fonctionne la portabilite apres perte d'emploi ?",
+    "text": "Q. Comment fonctionne la portabilite apres perte d'emploi ?\nR. Conformement a la loi Evin, votre couverture sante peut etre maintenue apres la fin de votre contrat\nde travail pendant une duree maximale de 12 mois, sans questionnaire medical ni delai de carence.\nVous devez en faire la demande dans les 6 mois suivant la fin de votre contrat. La cotisation ne peut\npas depasser 150% du tarif de base.",
+    "word_count": 70,
+    "source_sha256": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "text_sha256": "d87d3050f2733970760025d0cd53573bcc2431b044963fb159ed77eb895aee2b"
+  },
+  {
+    "chunk_id": "fiche_sante_faq:s05:w00",
+    "document": "fiche_sante_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "FAQ",
+    "section": "Q. L'implant dentaire est-il couvert ?",
+    "text": "Q. L'implant dentaire est-il couvert ?\nR. En formule Essentiel et Confort, les implants dentaires ne sont pas pris en charge. En formule\nPremium, les implants sont couverts dans la limite du plafond dentaire annuel (2 000 euros), deduction\nfaite du remboursement Securite sociale. Un devis prealable est obligatoire.",
+    "word_count": 49,
+    "source_sha256": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "text_sha256": "1dddca55724a03c826f91fafcfbc880712cb0d9aa57de54ace71fce4d0b042b8"
+  },
+  {
+    "chunk_id": "fiche_sante_faq:s06:w00",
+    "document": "fiche_sante_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "FAQ",
+    "section": "Q. Mon enfant est-il couvert jusqu'a quel age ?",
+    "text": "Q. Mon enfant est-il couvert jusqu'a quel age ?\nR. Les enfants sont couverts jusqu'a leur 21e anniversaire. Cette limite est etendue a 25 ans pour les\netudiants inscrits dans un etablissement d'enseignement superieur, les apprentis et les enfants en\nsituation de handicap (sur justificatif). La radiation doit etre declaree dans le mois suivant le\ndepassement de la limite d'age.",
+    "word_count": 60,
+    "source_sha256": "7f6982331878f6695a06b81ceaccdc86203f91910cab1a4eebfb2544d3629d21",
+    "text_sha256": "20438d86ceea8704cce091eec2e1dad6014270bca9c04c11d85199284c807ea8"
+  },
+  {
+    "chunk_id": "fiche_sante_premium:s00:w00",
+    "document": "fiche_sante_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Premium",
+    "section": "Présentation",
+    "text": "La couverture sante d'excellence, sans reste a charge.\nÀ partir de 145 €/mois",
+    "word_count": 13,
+    "source_sha256": "69a1c2091efec21708bc392b0f8b70e602bae12d5d207afcd257dcf30038eeb2",
+    "text_sha256": "bae52035aaedbc00e7892fac626205b8a9a90906d01db0afe3d7acbc44ff39aa"
+  },
+  {
+    "chunk_id": "fiche_sante_premium:s01:w00",
+    "document": "fiche_sante_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Premium",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nConsultations tous\nsecteurs\nDepassements d'honoraires integralement\ncouverts\n300% BR\nAucune\nPharmacie premium\nMedicaments SS + parapharmacie +\nphytotherapie certifiee\n200% BR\nAucune\nHospitalisation top\nChambre individuelle, extras, accompagnant,\ntransport\n400% FR\nAucune\nImagerie et biologie\nScanner, IRM, TEP, genomique, bilan\napprofondi\n300% BR\nAucune\nOptique premium\nVerres progressifs, lentilles, chirurgie\nrefractive\n600 €/an\nAucune\nDentaire premium\nImplants, protheses ceramique, orthodontie\nadulte\n2 000 €/an\nAucune\nAudition\nAppareils auditifs classe I et II, maintenance\n1 200 €/an\nAucune\nMedecine douce elargie\nOsteo, acupuncture, chiropractie,\npsychotherapie (20 seances)\n500 €/an\nAucune\nAssistance medicale\nmonde\nRapatriement, consultation a l'etranger,\ntelemedicine 24h/24\nIllimite\nAucune",
+    "word_count": 107,
+    "source_sha256": "69a1c2091efec21708bc392b0f8b70e602bae12d5d207afcd257dcf30038eeb2",
+    "text_sha256": "b06aacacaa66ea58ead0c6fb6a741a60f530c7f883a8312a75d0b55fe41f4df0"
+  },
+  {
+    "chunk_id": "fiche_sante_premium:s02:w00",
+    "document": "fiche_sante_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Santé",
+    "level": "Premium",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Traitements experimentaux non homologues en France\n• Chirurgie esthetique pure (sans indication medicale reconnue)\n• Maternite de confort (maternite standards prise en charge a 100%)",
+    "word_count": 28,
+    "source_sha256": "69a1c2091efec21708bc392b0f8b70e602bae12d5d207afcd257dcf30038eeb2",
+    "text_sha256": "339fee691708bf84aaf7dc746c49e3188c7a1e0e2894e2607ef1e45ede67e8a2"
+  },
+  {
+    "chunk_id": "fiche_sante_premium:s03:w00",
+    "document": "fiche_sante_premium.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Santé",
+    "level": "Premium",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge d'adhesion\nDe 18 a 80 ans. Questionnaire detaille requis apres 60 ans\nDelai de carence\nAucun pour hospitalisation urgente. 3 mois pour dentaire/optique/audio\nTelemedicine\nAcces illimite 24h/24 a la plateforme MedOnline (psychiatrie, pediatrie,\ngeneraliste)\nConciergerie medicale\nPrise de RDV prioritaire chez les specialistes partenaires (< 72h)\nResiliation\nTout moment avec 1 mois de preavis apres la 1ere annee",
+    "word_count": 62,
+    "source_sha256": "69a1c2091efec21708bc392b0f8b70e602bae12d5d207afcd257dcf30038eeb2",
+    "text_sha256": "e7ff89ae68486a23a789eda89936816417d22722a11953af962d93f0df566d4f"
+  },
+  {
+    "chunk_id": "fiche_sante_premium:s04:w00",
+    "document": "fiche_sante_premium.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Santé",
+    "level": "Premium",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\nIndividuel 18-45 ans\n145 €/mois\nIndividuel 46-65 ans\n195 €/mois\nIndividuel 66-80 ans\n275 €/mois\nFamille (couple + enfants illimites)\nDe 380 €/mois\nTarif degressif des le 3e enfant\nOption maternite renforcee\n+30 €/mois\nSuivi grossesse, echographies\nsupplementaires, chambre individuelle",
+    "word_count": 45,
+    "source_sha256": "69a1c2091efec21708bc392b0f8b70e602bae12d5d207afcd257dcf30038eeb2",
+    "text_sha256": "8c17491895341efa332dd722866059b0558de3d103634be9bc831368bd702465"
+  },
+  {
+    "chunk_id": "fiche_vie_confort:s00:w00",
+    "document": "fiche_vie_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Confort",
+    "section": "Présentation",
+    "text": "Une protection completee par une epargne disponible.\nÀ partir de 60 €/mois",
+    "word_count": 12,
+    "source_sha256": "f05d36c4d2668c496c5f9f0672165122383ef933587f8c5aed45f2be14a56bc4",
+    "text_sha256": "bdc34996e62d6a91574803008ffd5a08ea7a38ba39f1083f88cb56c4b498cda4"
+  },
+  {
+    "chunk_id": "fiche_vie_confort:s01:w00",
+    "document": "fiche_vie_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Confort",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nCapital deces\nCapital aux beneficiaires en cas de deces\ntoutes causes\n250 000 €\nAucune\nPTIA et invalidite totale\nPTIA + invalidite permanente totale (IPT >=\n66%)\n250 000 €\nAucune\nInvalidite permanente\npartielle\nIndemnisation selon bareme si IPP entre 33%\net 66%\nProrata\nAucune\nIncapacite temporaire\nde travail\nRente mensuelle en cas d'arret de travail > 30\njours\n1 500 €/mois\n30 jours\nEpargne disponible\nCompartiment d'epargne en euros garanti\n(rendement min 1%)\nSelon\nversements\nN/A\nFrais obseques\nForfait obseques revalorises\n8 000 €\nAucune",
+    "word_count": 93,
+    "source_sha256": "f05d36c4d2668c496c5f9f0672165122383ef933587f8c5aed45f2be14a56bc4",
+    "text_sha256": "878f1937b817e74063d4359ab1df49a09a234171ee5a3672b0bad391abdd5912"
+  },
+  {
+    "chunk_id": "fiche_vie_confort:s02:w00",
+    "document": "fiche_vie_confort.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Confort",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Suicide dans les 24 premiers mois\n• Activites a risques non declarees (liste remise a la souscription)\n• Invalidite consecutive a un etat anterieur non declare\n• Participation a une rixe ou acte illegal provoque",
+    "word_count": 38,
+    "source_sha256": "f05d36c4d2668c496c5f9f0672165122383ef933587f8c5aed45f2be14a56bc4",
+    "text_sha256": "cd96f15c08b3de689baa6145ff71c2bce2fe391cec16b32ddea53a4e5cf91e96"
+  },
+  {
+    "chunk_id": "fiche_vie_confort:s03:w00",
+    "document": "fiche_vie_confort.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Vie",
+    "level": "Confort",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge de souscription\nDe 18 a 70 ans. Couverture deces jusqu'a 80 ans\nQuestionnaire medical\nQuestionnaire complet + examen medical si capital > 200 000 euros ou\nage > 55 ans\nRachat partiel\nPossible a partir de la 3e annee sur le compartiment epargne (min 500\neuros)\nDelai de carence ITT\n30 jours (90 jours si arret cause psychiatrique la 1ere annee)\nResiliation\nA tout moment sur le compartiment prevoyance. Rachat total epargne\npossible a partir de l'an 3",
+    "word_count": 82,
+    "source_sha256": "f05d36c4d2668c496c5f9f0672165122383ef933587f8c5aed45f2be14a56bc4",
+    "text_sha256": "d174e2f60b267a4a9b370ba1b91db6905856559e28ce0038b14442bdc88f08e0"
+  },
+  {
+    "chunk_id": "fiche_vie_confort:s04:w00",
+    "document": "fiche_vie_confort.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Vie",
+    "level": "Confort",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\n18-40 ans\n60 €/mois\nCapital 250 000 euros, dont 20 euros verses\nen epargne\n41-55 ans\n105 €/mois\nCapital 250 000 euros, dont 20 euros verses\nen epargne\n56-70 ans\n180 €/mois\nCapital reduit a 150 000 euros au-dela de 65\nans",
+    "word_count": 47,
+    "source_sha256": "f05d36c4d2668c496c5f9f0672165122383ef933587f8c5aed45f2be14a56bc4",
+    "text_sha256": "7760e1e72f2d0637344a7d71eab85fba3249905b3d35c0d6bddd2dd12f23bbfd"
+  },
+  {
+    "chunk_id": "fiche_vie_essentiel:s00:w00",
+    "document": "fiche_vie_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Essentiel",
+    "section": "Présentation",
+    "text": "Protegez vos proches avec une garantie deces accessible.\nÀ partir de 30 €/mois",
+    "word_count": 13,
+    "source_sha256": "27f93c9d19dabf1dc801561cb151e7f4b0d0f2ea6447b3aeadd3dc9a8ac70058",
+    "text_sha256": "474e931b77cec30195e0552525e8ab1653e7874975040571a072e76a45b23e36"
+  },
+  {
+    "chunk_id": "fiche_vie_essentiel:s01:w00",
+    "document": "fiche_vie_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Essentiel",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nCapital deces\nVersement d'un capital aux beneficiaires\ndesignes en cas de deces\n100 000 €\nAucune\nPTIA\nPerte Totale et Irreversible d'Autonomie\n(invalidite absolue)\n100 000 €\nAucune\nDouble effet\nCapital supplementaire si deces du conjoint\ndans l'annee\n50 000 €\nAucune\nFrais obseques\nForfait obseques pour soulager la famille\n5 000 €\nAucune",
+    "word_count": 61,
+    "source_sha256": "27f93c9d19dabf1dc801561cb151e7f4b0d0f2ea6447b3aeadd3dc9a8ac70058",
+    "text_sha256": "d497ec1524d6a2552c9c87b98372b5638a6974dd1fe4e5adbc497125ff0f9091"
+  },
+  {
+    "chunk_id": "fiche_vie_essentiel:s02:w00",
+    "document": "fiche_vie_essentiel.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Essentiel",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Suicide dans les 12 premiers mois du contrat\n• Deces en etat d'ivresse ou sous stupefiants prouves\n• Activites a risque non declarees (deltaplane, alpinisme > 4000 m, combat de boxe professionnel)\n• Guerre civile ou etrangere\n• Deces consecutif a une maladie non declaree a la souscription",
+    "word_count": 51,
+    "source_sha256": "27f93c9d19dabf1dc801561cb151e7f4b0d0f2ea6447b3aeadd3dc9a8ac70058",
+    "text_sha256": "054ec947a4366a0c292b9d241d31a63f61d2aef198e0ff4bd7ce655c32acea88"
+  },
+  {
+    "chunk_id": "fiche_vie_essentiel:s03:w00",
+    "document": "fiche_vie_essentiel.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Vie",
+    "level": "Essentiel",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge de souscription\nDe 18 a 65 ans. Fin de garantie a 75 ans\nQuestionnaire medical\nQuestionnaire simplifie (sante, pratiques sportives) sans examen pour\ncapital <= 100 000 euros\nDesignation des\nbeneficiaires\nLibre. Clause beneficiaire type ou speciale (notariee recommandee\nau-dela de 150 000 euros)\nDelai de carence\nAucun pour accident. 12 mois pour maladie (deces)\nResiliation\nLe souscripteur peut resilier a tout moment apres 2 ans. Valeur de rachat\nnon applicable (pas d'epargne)",
+    "word_count": 77,
+    "source_sha256": "27f93c9d19dabf1dc801561cb151e7f4b0d0f2ea6447b3aeadd3dc9a8ac70058",
+    "text_sha256": "81543d2520c192a9572285c33a9ca5ad7772b649f4458b9b536bc2b1d36d7803"
+  },
+  {
+    "chunk_id": "fiche_vie_essentiel:s04:w00",
+    "document": "fiche_vie_essentiel.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Vie",
+    "level": "Essentiel",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\n18-35 ans, non-fumeur\n30 €/mois\nCapital 100 000 euros\n36-50 ans, non-fumeur\n55 €/mois\nCapital 100 000 euros\nFumeur\n+30% sur le tarif de\nbase\nJustificatif annuel de tabagisme requis\nOption majoration capital\n+15 €/mois\nCapital porte a 150 000 euros",
+    "word_count": 46,
+    "source_sha256": "27f93c9d19dabf1dc801561cb151e7f4b0d0f2ea6447b3aeadd3dc9a8ac70058",
+    "text_sha256": "0fa7036a549024b01c9ae58c7a025518786716744a775645c336f5844ab204bb"
+  },
+  {
+    "chunk_id": "fiche_vie_faq:s00:w00",
+    "document": "fiche_vie_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "FAQ",
+    "section": "Présentation",
+    "text": "Foire Aux Questions — Assurance Vie\nRetrouvez ici les reponses aux questions les plus frequentes posees par nos assures. Pour toute question\ncomplementaire, contactez votre conseiller AssurCo ou rendez-vous sur www.assurco.fr.",
+    "word_count": 31,
+    "source_sha256": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "text_sha256": "b5211a270be94691959f79e076b82322947aaf2833720d549bea1716fa83c6b9"
+  },
+  {
+    "chunk_id": "fiche_vie_faq:s01:w00",
+    "document": "fiche_vie_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "FAQ",
+    "section": "Q. Quelle est la difference entre l'assurance vie et l'assurance deces ?",
+    "text": "Q. Quelle est la difference entre l'assurance vie et l'assurance deces ?\nR. L'assurance deces pure (formule Essentiel) verse un capital aux beneficiaires si l'assure decede\navant le terme : c'est de la prevoyance pure, sans epargne. L'assurance vie (formules Confort et\nPremium) combine prevoyance et epargne : vous constituez un capital que vous pouvez recuperer de\nvotre vivant (rachat) ou qui est transmis a votre deces.",
+    "word_count": 67,
+    "source_sha256": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "text_sha256": "426cb59b50ed2abc29bc261f124c33f01236b00d7ec50a00657560c19c11f841"
+  },
+  {
+    "chunk_id": "fiche_vie_faq:s02:w00",
+    "document": "fiche_vie_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "FAQ",
+    "section": "Q. Comment designer mes beneficiaires ?",
+    "text": "Q. Comment designer mes beneficiaires ?\nR. Vous designez librement vos beneficiaires a la souscription ou a tout moment. La clause type\ndesigne le conjoint en priorite, puis les enfants, puis les heritiers. Vous pouvez nommer une personne\nspecifique ou une association. Pour des montants importants (> 150 000 euros), une clause notariee\nest recommandee pour optimiser la transmission et eviter les conflits.",
+    "word_count": 63,
+    "source_sha256": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "text_sha256": "c816c09e286bfcc6a853de22847b871baa98f43b3903e498f593af96f4d529ed"
+  },
+  {
+    "chunk_id": "fiche_vie_faq:s03:w00",
+    "document": "fiche_vie_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "FAQ",
+    "section": "Q. Les activites sportives a risque sont-elles couvertes ?",
+    "text": "Q. Les activites sportives a risque sont-elles couvertes ?\nR. Certaines activites sont couvertes de base (ski, moto, plongee < 40 m, parachutisme). D'autres\nnecessitent une declaration et une surprime : alpinisme au-dela de 4 000 m, sports de combat\nprofessionnels, courses automobiles, plongee profonde. La liste exhaustive est remise a la\nsouscription. Une fausse declaration entraine la nullite du contrat.",
+    "word_count": 61,
+    "source_sha256": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "text_sha256": "7bf37633a91e9a70371cf47458593ce4e33f8657f5593f615e786290725d1bcd"
+  },
+  {
+    "chunk_id": "fiche_vie_faq:s04:w00",
+    "document": "fiche_vie_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "FAQ",
+    "section": "Q. Puis-je racheter mon epargne avant le terme ?",
+    "text": "Q. Puis-je racheter mon epargne avant le terme ?\nR. Oui, pour les formules Confort et Premium qui comportent un compartiment epargne. En Confort, le\npremier rachat est possible apres 3 ans (minimum 500 euros). En Premium, les rachats sur UC sont\nlibres des la 1ere annee. Attention : les rachats sur fonds euros sont limites a 2 par an en Premium.\nUne fiscalite avantageuse s'applique apres 8 ans de detention.",
+    "word_count": 71,
+    "source_sha256": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "text_sha256": "7702bc30adb4de5f29aed6db33f2bfe7cab37e2e470c450190bc49da1d7569c3"
+  },
+  {
+    "chunk_id": "fiche_vie_faq:s05:w00",
+    "document": "fiche_vie_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "FAQ",
+    "section": "Q. Que se passe-t-il en cas de maladie grave non declaree ?",
+    "text": "Q. Que se passe-t-il en cas de maladie grave non declaree ?\nR. Si vous omettez de declarer une maladie grave a la souscription et que le sinistre est directement lie\na cette maladie, la garantie peut etre reduite proportionnellement (regle proportionnelle de prime) voire\nannulee en cas de fausse declaration intentionnelle. Pour cette raison, remplissez le questionnaire de\nsante avec la plus grande precision.",
+    "word_count": 65,
+    "source_sha256": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "text_sha256": "2bbc3d9a774d902581f943e3d8f3141a8bbbc156261f911be6b6b1c93b0c7fcf"
+  },
+  {
+    "chunk_id": "fiche_vie_faq:s06:w00",
+    "document": "fiche_vie_faq.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "FAQ",
+    "section": "Q. Comment fonctionne la rente education en formule Premium ?",
+    "text": "Q. Comment fonctionne la rente education en formule Premium ?\nR. En cas de deces de l'assure, une rente mensuelle est versee a chacun de vos enfants a charge\njusqu'a leurs 25 ans. Le montant est de 800 euros/mois par enfant. Cette rente est doublee si l'enfant\nest orphelin de pere et de mere. Elle est exoneree d'impot sur le revenu et de droits de succession.",
+    "word_count": 66,
+    "source_sha256": "ea04f54635b9e51872e5e9449de94d03d4b1fa7b40b970dad26412e7c5e26cbd",
+    "text_sha256": "57430a8ad27e240db361caa26e79a312577dc685ee35609c1a0b2c511cad9008"
+  },
+  {
+    "chunk_id": "fiche_vie_premium:s00:w00",
+    "document": "fiche_vie_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Premium",
+    "section": "Présentation",
+    "text": "Prevoyance haut de gamme et constitution de patrimoine.\nÀ partir de 180 €/mois",
+    "word_count": 13,
+    "source_sha256": "3acea7d1a6b1a10817dfaa5e58c0057024f298c2c3c7071bb2e7593f15b82985",
+    "text_sha256": "8de799fc0b331d1214c09e8ca66d13e75d3fdfa478764777ae04db6dd7d143eb"
+  },
+  {
+    "chunk_id": "fiche_vie_premium:s01:w00",
+    "document": "fiche_vie_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Premium",
+    "section": "Tableau des garanties",
+    "text": "Tableau des garanties\nGarantie\nDescription\nPlafond\nFranchise\nCapital deces\nCapital majore par une revalorisation annuelle\n500 000 €\nAucune\nPTIA, IPT, IPP\nCouverture complete de l'invalidite selon\nbareme AG2R\n500 000 €\nAucune\nIncapacite temporaire\nRente ITT + maintien de salaire\ncomplementaire\n3 500 €/mois\n15 jours\nEpargne multi-supports\nFonds euros garanti + UC (actions, immobilier,\nESG)\nSelon\nversements\nN/A\nRente education\nRente pour les enfants a charge jusqu'a 25\nans en cas de deces\n800\n€/mois/enfant\nAucune\nDependance partielle\nRente mensuelle si perte d'autonomie GIR 3-4\n500 €/mois\n3 mois carence\nFrais obseques\nForfait obseques + service d'organisation\nfuneraire\n15 000 €\nAucune",
+    "word_count": 104,
+    "source_sha256": "3acea7d1a6b1a10817dfaa5e58c0057024f298c2c3c7071bb2e7593f15b82985",
+    "text_sha256": "11dc43b5063c55619ac8c1b2f322c91de8bb209f67e4b0f816ca0727008da45f"
+  },
+  {
+    "chunk_id": "fiche_vie_premium:s02:w00",
+    "document": "fiche_vie_premium.pdf",
+    "pages": [
+      1
+    ],
+    "product": "Assurance Vie",
+    "level": "Premium",
+    "section": "Principales exclusions",
+    "text": "Principales exclusions\n• Suicide dans les 12 premiers mois (capital verse des la 2e annee)\n• Guerre, attentat nucleaire, biologique ou chimique de masse\n• Activites a risques ultra-extremes non declarees (liste limitative en annexe)",
+    "word_count": 35,
+    "source_sha256": "3acea7d1a6b1a10817dfaa5e58c0057024f298c2c3c7071bb2e7593f15b82985",
+    "text_sha256": "a7fc47f84428c1b957494b2b19cf8eaf0f8f2518a18f502ec1191013a4eeaf20"
+  },
+  {
+    "chunk_id": "fiche_vie_premium:s03:w00",
+    "document": "fiche_vie_premium.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "product": "Assurance Vie",
+    "level": "Premium",
+    "section": "Conditions de souscription",
+    "text": "Conditions de souscription\nAge de souscription\nDe 18 a 75 ans. Garantie deces active jusqu'a 85 ans\nQuestionnaire medical\nComplet avec bilan medical pour tout capital > 300 000 euros\nGestion epargne\nArbitrage libre ou gestion pilotee (profils Prudent, Equilibre, Dynamique)\nRachat\nLibre des la 1ere annee sur les UC. Fonds euros : 2 rachats/an\nmaximum\nTransmission\nClause beneficiaire optimisee avec conseil patrimonial inclus (1 RDV/an)",
+    "word_count": 66,
+    "source_sha256": "3acea7d1a6b1a10817dfaa5e58c0057024f298c2c3c7071bb2e7593f15b82985",
+    "text_sha256": "ffe2fc43399230b6ee92df0e6b112eda026b2811714bf06cfd6761a917c600b6"
+  },
+  {
+    "chunk_id": "fiche_vie_premium:s04:w00",
+    "document": "fiche_vie_premium.pdf",
+    "pages": [
+      2
+    ],
+    "product": "Assurance Vie",
+    "level": "Premium",
+    "section": "Tarification indicative",
+    "text": "Tarification indicative\nFormule\nPrime\nDetail\n18-45 ans\n180 €/mois\nDont 80 euros en epargne multi-supports\n46-60 ans\n290 €/mois\nDont 80 euros en epargne multi-supports\n61-75 ans\n420 €/mois\nCapital deces ramene a 300 000 euros\nOption dependance etendue\n+45 €/mois\nRente GIR 1-2 portee a 1 500 euros/mois",
+    "word_count": 49,
+    "source_sha256": "3acea7d1a6b1a10817dfaa5e58c0057024f298c2c3c7071bb2e7593f15b82985",
+    "text_sha256": "f9aba8f5fa9fdf07fc2cc1f3eeb792e93075306a36f2afc26feb629a0be50760"
+  }
+]

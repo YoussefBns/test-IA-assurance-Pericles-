@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "source_files_checked": 22,
+  "missing_markdown_links": [],
+  "executed_notebook_cells": 9,
+  "python_syntax": "parsed",
+  "image_review": "ROC, confusion, SHAP, calibration, RAG precision and permutation figures visually inspected"
+}

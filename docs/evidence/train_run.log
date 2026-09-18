@@ -1,0 +1,147 @@
+TRAIN logistic_regression
+TRAIN random_forest
+SELECTED_BEFORE_TEST logistic_regression
+{
+  "selected_model": "logistic_regression",
+  "candidates": {
+    "logistic_regression": {
+      "best_parameters": {
+        "model__C": 0.03
+      },
+      "cv_ap_mean": 0.4049933279012647,
+      "cv_ap_std": 0.04245391027673512,
+      "cv_auc_mean": 0.6633167205077017,
+      "fit_seconds": 1.8577533740000263,
+      "holdout": {
+        "auc_roc": 0.6993850520340587,
+        "average_precision": 0.4835361735037889,
+        "precision": 0.3793103448275862,
+        "recall": 0.673469387755102,
+        "f1": 0.4852941176470588,
+        "brier": 0.22680521947763707,
+        "threshold": 0.5,
+        "confusion_matrix": [
+          [
+            194,
+            108
+          ],
+          [
+            32,
+            66
+          ]
+        ],
+        "n": 400,
+        "positive_support": 98
+      }
+    },
+    "random_forest": {
+      "best_parameters": {
+        "model__max_depth": 6,
+        "model__max_features": "sqrt",
+        "model__min_samples_leaf": 8
+      },
+      "cv_ap_mean": 0.37804666509452095,
+      "cv_ap_std": 0.018438217263643877,
+      "cv_auc_mean": 0.6459244951538282,
+      "fit_seconds": 9.056205721999959,
+      "holdout": {
+        "auc_roc": 0.6976280578456547,
+        "average_precision": 0.44745327191580486,
+        "precision": 0.448,
+        "recall": 0.5714285714285714,
+        "f1": 0.5022421524663677,
+        "brier": 0.21642648348883875,
+        "threshold": 0.5,
+        "confusion_matrix": [
+          [
+            233,
+            69
+          ],
+          [
+            42,
+            56
+          ]
+        ],
+        "n": 400,
+        "positive_support": 98
+      }
+    }
+  },
+  "dummy_baseline": {
+    "auc_roc": 0.5,
+    "average_precision": 0.245,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "brier": 0.18497656249999994,
+    "threshold": 0.5,
+    "confusion_matrix": [
+      [
+        302,
+        0
+      ],
+      [
+        98,
+        0
+      ]
+    ],
+    "n": 400,
+    "positive_support": 98
+  },
+  "interpretability": {
+    "method": "SHAP + permutation",
+    "shap_scale": "contribution au log-odds du classifieur",
+    "n_explained": 120,
+    "shap_top5": [
+      {
+        "feature": "num__score_satisfaction",
+        "mean_abs_shap": 0.2947497994319673
+      },
+      {
+        "feature": "num__resiliation_anterieure",
+        "mean_abs_shap": 0.22720362103952496
+      },
+      {
+        "feature": "num__retard_paiement_nb",
+        "mean_abs_shap": 0.18240316832177045
+      },
+      {
+        "feature": "num__nb_sinistres_12m",
+        "mean_abs_shap": 0.14019414912727715
+      },
+      {
+        "feature": "num__anciennete_mois",
+        "mean_abs_shap": 0.13770633666618204
+      }
+    ],
+    "permutation_top5": [
+      {
+        "feature": "score_satisfaction",
+        "importance_mean": 0.18187433722341187,
+        "importance_std": 0.01405204497092282
+      },
+      {
+        "feature": "resiliation_anterieure",
+        "importance_mean": 0.04725032828969004,
+        "importance_std": 0.010990684771302637
+      },
+      {
+        "feature": "nb_sinistres_12m",
+        "importance_mean": 0.0376969533363301,
+        "importance_std": 0.013914188704625153
+      },
+      {
+        "feature": "retard_paiement_nb",
+        "importance_mean": 0.03664915674177831,
+        "importance_std": 0.022359997013639454
+      },
+      {
+        "feature": "profession",
+        "importance_mean": 0.012669793979761812,
+        "importance_std": 0.005419917398043465
+      }
+    ],
+    "warning": "Associations non causales ; les corrélations peuvent partager les importances."
+  },
+  "total_seconds": 14.524885680000011
+}

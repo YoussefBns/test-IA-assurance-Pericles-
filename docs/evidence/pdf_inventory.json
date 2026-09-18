@@ -1,0 +1,102 @@
+[
+  {
+    "document": "fiche_auto_confort.pdf",
+    "pages": 2,
+    "bytes": 7180
+  },
+  {
+    "document": "fiche_auto_essentiel.pdf",
+    "pages": 2,
+    "bytes": 6680
+  },
+  {
+    "document": "fiche_auto_faq.pdf",
+    "pages": 1,
+    "bytes": 4119
+  },
+  {
+    "document": "fiche_auto_premium.pdf",
+    "pages": 2,
+    "bytes": 7325
+  },
+  {
+    "document": "fiche_habitation_confort.pdf",
+    "pages": 2,
+    "bytes": 7209
+  },
+  {
+    "document": "fiche_habitation_essentiel.pdf",
+    "pages": 2,
+    "bytes": 6803
+  },
+  {
+    "document": "fiche_habitation_faq.pdf",
+    "pages": 1,
+    "bytes": 4229
+  },
+  {
+    "document": "fiche_habitation_premium.pdf",
+    "pages": 2,
+    "bytes": 7249
+  },
+  {
+    "document": "fiche_pro_confort.pdf",
+    "pages": 2,
+    "bytes": 7071
+  },
+  {
+    "document": "fiche_pro_essentiel.pdf",
+    "pages": 2,
+    "bytes": 6926
+  },
+  {
+    "document": "fiche_pro_faq.pdf",
+    "pages": 2,
+    "bytes": 5988
+  },
+  {
+    "document": "fiche_pro_premium.pdf",
+    "pages": 2,
+    "bytes": 7306
+  },
+  {
+    "document": "fiche_sante_confort.pdf",
+    "pages": 2,
+    "bytes": 7107
+  },
+  {
+    "document": "fiche_sante_essentiel.pdf",
+    "pages": 2,
+    "bytes": 6975
+  },
+  {
+    "document": "fiche_sante_faq.pdf",
+    "pages": 1,
+    "bytes": 4309
+  },
+  {
+    "document": "fiche_sante_premium.pdf",
+    "pages": 2,
+    "bytes": 7400
+  },
+  {
+    "document": "fiche_vie_confort.pdf",
+    "pages": 2,
+    "bytes": 6906
+  },
+  {
+    "document": "fiche_vie_essentiel.pdf",
+    "pages": 2,
+    "bytes": 6896
+  },
+  {
+    "document": "fiche_vie_faq.pdf",
+    "pages": 1,
+    "bytes": 4526
+  },
+  {
+    "document": "fiche_vie_premium.pdf",
+    "pages": 2,
+    "bytes": 7046
+  }
+]

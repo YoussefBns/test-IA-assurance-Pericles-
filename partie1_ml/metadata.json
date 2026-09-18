@@ -1,0 +1,75 @@
+{
+  "model_version": "1.0.0-cf63ac276d",
+  "created_utc": "2026-09-17T23:02:53.416125+00:00",
+  "selected_model": "logistic_regression",
+  "selection_metric": "mean 5-fold stratified CV average_precision on training only",
+  "dataset_sha256": "cf63ac276d8996bf7936dc9755c2d388e26580ed19bca4dae85e60b0af5b5292",
+  "model_sha256": "446bf4251042236b3d12e2ecaa5ff8a22c990288904bbc4aeb16fc3bee73b22e",
+  "python": "3.13.5",
+  "packages": {
+    "scikit-learn": "1.8.0",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "joblib": "1.5.3"
+  },
+  "threshold": 0.5,
+  "risk_bounds": {
+    "moderate": 0.25,
+    "high": 0.5
+  },
+  "risk_policy": "Illustratif : faible < 0,25 ; modéré [0,25;0,5[ ; élevé >= 0,5.",
+  "input_features": [
+    "age",
+    "anciennete_mois",
+    "prime_mensuelle_eur",
+    "nb_sinistres_12m",
+    "montant_sinistres_eur",
+    "nb_appels_support_12m",
+    "nb_avenants_contrat",
+    "retard_paiement_nb",
+    "score_satisfaction",
+    "resiliation_anterieure",
+    "situation_familiale",
+    "profession",
+    "region",
+    "produit_principal",
+    "niveau_couverture",
+    "canal_souscription"
+  ],
+  "dropped": [
+    "client_id",
+    "date_souscription",
+    "date_derniere_interaction"
+  ],
+  "seed": 42,
+  "train_size": 1600,
+  "test_size": 400,
+  "trained_on_holdout": false,
+  "probabilities_calibrated": false,
+  "metrics": {
+    "auc_roc": 0.6993850520340587,
+    "average_precision": 0.4835361735037889,
+    "precision": 0.3793103448275862,
+    "recall": 0.673469387755102,
+    "f1": 0.4852941176470588,
+    "brier": 0.22680521947763707,
+    "threshold": 0.5,
+    "confusion_matrix": [
+      [
+        194,
+        108
+      ],
+      [
+        32,
+        66
+      ]
+    ],
+    "n": 400,
+    "positive_support": 98
+  },
+  "holdout_auc_bootstrap_95_percentile": [
+    0.6397553260291258,
+    0.7620340717590465
+  ]
+}

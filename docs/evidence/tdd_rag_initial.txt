@@ -1,0 +1,18 @@
+F                                                                        [100%]
+=================================== FAILURES ===================================
+____________________________ test_rag_modules_exist ____________________________
+
+    def test_rag_modules_exist():
+>       assert importlib.util.find_spec('partie2_rag.ingest') is not None
+E       AssertionError: assert None is not None
+E        +  where None = <function find_spec at 0x7fb1a5283b00>('partie2_rag.ingest')
+E        +    where <function find_spec at 0x7fb1a5283b00> = <module 'importlib.util' (frozen)>.find_spec
+E        +      where <module 'importlib.util' (frozen)> = importlib.util
+
+tests/test_rag.py:11: AssertionError
+=========================== short test summary info ============================
+FAILED tests/test_rag.py::test_rag_modules_exist - AssertionError: assert None is not None
+ +  where None = <function find_spec at 0x7fb1a5283b00>('partie2_rag.ingest')
+ +    where <function find_spec at 0x7fb1a5283b00> = <module 'importlib.util' (frozen)>.find_spec
+ +      where <module 'importlib.util' (frozen)> = importlib.util
+1 failed in 0.07s
