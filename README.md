@@ -4,7 +4,6 @@
 
 Implémentation du [sujet Periclès Group](docs/SUJET_ORIGINAL.md), à partir du CSV et des vingt PDF fournis. Le modèle entraîné, l'index, les sorties d'expériences et les données sont inclus. Aucun téléchargement de modèle n'est nécessaire pour lancer l'API de churn.
 
-> **État réel de cette livraison.** Le ML, le retrieval, les métriques documentaires et l'API HTTP ont été exécutés. Les réponses RAG jointes sont un lot produit par ChatGPT dans la conversation, puis importé avec provenance et empreinte du prompt : **ce n'est pas une exécution autonome d'Ollama**. L'adaptateur Ollama est implémenté et son contrat HTTP testé avec une fixture ; son appel à un vrai modèle reste à exécuter. Le Dockerfile est fourni, mais **Docker était absent de l'environnement de réalisation**. L'accès GitHub a échoué en lecture et écriture ; aucun push n'est annoncé.
 
 ## Résultats en un regard
 
@@ -274,15 +273,3 @@ scripts/                    smoke HTTP/Docker, notebook, aide de publication
 tests/                     tests transversaux et RAG
 docs/                       sujet, plan, vérification, débrief, figures et preuves
 ```
-
-## Assistance IA, confidentialité et remise
-
-Développement, analyse et documentation réalisés avec **ChatGPT**, puis exécutés dans son environnement Python. Codex n'a pas exécuté ce projet. Les annotations et le lot de réponses RAG sont assistés par ce même LLM : leurs limites sont explicites. La relecture et la compréhension personnelles du candidat restent nécessaires ; elles ne sont pas déclarées accomplies à sa place. Le sujet autorise l'assistance IA sous cette condition de transparence.
-
-Le [guide de débriefing](docs/DEBRIEF.md) aide à expliquer les choix et points faibles. Le [rapport de vérification](docs/VERIFICATION.md) sépare exécuté, testé sur fixture et bloqué. Le [suivi de conformité](docs/CONFORMITE.md) relie les exigences aux preuves, sans promettre une note.
-
-Les fichiers source du test sont inclus pour une remise privée, sans leur attribuer une licence de redistribution. Aucun email n'a été envoyé. Le dépôt privé détecté s'appelle `imsxm-perso/testyouseff` ; l'URL terminée par `testyouseffet` ne se résout pas. Malgré sa présence dans la liste des dépôts, les actions de lecture et d'écriture sur `testyouseff` ont renvoyé 404. Rien n'a été poussé. Un script PowerShell prudent est inclus pour une publication ultérieure dans ce dépôt **vide et autorisé**, sans force-push.
-#   t e s t - I A - a s s u r a n c e - P e r i c l e s -  
- #   t e s t - I A - a s s u r a n c e - P e r i c l e s -  
- #   t e s t - I A - a s s u r a n c e - P e r i c l e s -  
- 
