@@ -4,7 +4,6 @@
 
 Implémentation du [sujet Periclès Group](docs/SUJET_ORIGINAL.md), à partir du CSV et des vingt PDF fournis. Le modèle entraîné, l'index, les sorties d'expériences et les données sont inclus. Aucun téléchargement de modèle n'est nécessaire pour lancer l'API de churn.
 
-> **État réel de cette livraison.** Le ML, le retrieval, les métriques documentaires et l'API HTTP ont été exécutés. Les réponses RAG jointes sont un lot produit par ChatGPT dans la conversation, puis importé avec provenance et empreinte du prompt : **ce n'est pas une exécution autonome d'Ollama**. L'adaptateur Ollama est implémenté et son contrat HTTP testé avec une fixture ; son appel à un vrai modèle reste à exécuter. Le Dockerfile est fourni, mais **Docker était absent de l'environnement de réalisation**. L'accès GitHub a échoué en lecture et écriture ; aucun push n'est annoncé.
 
 ## Résultats en un regard
 
@@ -274,6 +273,3 @@ scripts/                    smoke HTTP/Docker, notebook, aide de publication
 tests/                     tests transversaux et RAG
 docs/                       sujet, plan, vérification, débrief, figures et preuves
 ```
-
-
- 
