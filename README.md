@@ -275,14 +275,5 @@ tests/                     tests transversaux et RAG
 docs/                       sujet, plan, vérification, débrief, figures et preuves
 ```
 
-## Assistance IA, confidentialité et remise
 
-Développement, analyse et documentation réalisés avec **ChatGPT**, puis exécutés dans son environnement Python. Codex n'a pas exécuté ce projet. Les annotations et le lot de réponses RAG sont assistés par ce même LLM : leurs limites sont explicites. La relecture et la compréhension personnelles du candidat restent nécessaires ; elles ne sont pas déclarées accomplies à sa place. Le sujet autorise l'assistance IA sous cette condition de transparence.
-
-Le [guide de débriefing](docs/DEBRIEF.md) aide à expliquer les choix et points faibles. Le [rapport de vérification](docs/VERIFICATION.md) sépare exécuté, testé sur fixture et bloqué. Le [suivi de conformité](docs/CONFORMITE.md) relie les exigences aux preuves, sans promettre une note.
-
-Les fichiers source du test sont inclus pour une remise privée, sans leur attribuer une licence de redistribution. Aucun email n'a été envoyé. Le dépôt privé détecté s'appelle `imsxm-perso/testyouseff` ; l'URL terminée par `testyouseffet` ne se résout pas. Malgré sa présence dans la liste des dépôts, les actions de lecture et d'écriture sur `testyouseff` ont renvoyé 404. Rien n'a été poussé. Un script PowerShell prudent est inclus pour une publication ultérieure dans ce dépôt **vide et autorisé**, sans force-push.
-#   t e s t - I A - a s s u r a n c e - P e r i c l e s -  
- #   t e s t - I A - a s s u r a n c e - P e r i c l e s -  
- #   t e s t - I A - a s s u r a n c e - P e r i c l e s -  
  
